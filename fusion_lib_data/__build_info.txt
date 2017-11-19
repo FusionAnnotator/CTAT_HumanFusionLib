@@ -16,3 +16,4 @@ Klijn.fusions.dat	Klijn_fusions.pm
 panel_and_misc_annotations.txt	MiscAnnotations.pm
 dgd_Hsa_all_v71.tsv	paralogs.pm
 genefam_list.txt	genefam.pm
+hgnc_complete_set.txt.gz	HGNC.pm
