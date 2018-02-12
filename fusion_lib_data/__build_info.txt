@@ -11,5 +11,3 @@ dgd_Hsa_all_v71.tsv	paralogs.pm
 genefam_list.txt	genefam.pm
 hgnc_complete_set.txt.gz	HGNC.pm
 allonco_20130923.tsv	Oncogenes_Bushman.pm
-
-
