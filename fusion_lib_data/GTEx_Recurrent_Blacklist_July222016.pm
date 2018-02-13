@@ -16,8 +16,11 @@ sub load_data {
     while (<$fh>) {
         chomp;
         my ($fusion, $GTEx_FI_annot) = split(/\t/);
-            
-        $annotations_href->{$fusion}->{"GTEx_Recurrent:{$GTEx_FI_annot}"} = 1;
+        
+        $annotations_href->{$fusion}->{COMPLEX}->{"GTEx"} = "GTEx_Recurrent:{$GTEx_FI_annot}";
+        
+        $annotations_href->{$fusion}->{SIMPLE}->{"GTEx"} = 1;
+        
     }
     close $fh;
     

@@ -8,7 +8,8 @@ sub load_data {
     my ($annotations_href, $chimerdb_omim_txt) = @_;
 
     print STDERR "-parsing chimerdb omim: $chimerdb_omim_txt\n";
-    
+
+    my %fusion_to_diseases;
     open (my $fh, "$chimerdb_omim_txt") or confess "Error, cannot read file: $chimerdb_omim_txt";
     my $header = <$fh>;
     while (<$fh>) {
@@ -21,9 +22,18 @@ sub load_data {
         $disease =~ s/\"//g;
         
         my $fusion = "$geneA--$geneB";
-        $annotations_href->{$fusion}->{"chimerdb_omim:{$disease}"} = 1;
+
+        $fusion_to_diseases{$fusion}->{$disease} = 1;
     }
     close $fh;
+
+    foreach my $fusion (keys %fusion_to_diseases) {
+
+        my @disease_list = sort keys %{$fusion_to_diseases{$fusion}};
+
+        $annotations_href->{$fusion}->{COMPLEX}->{"chimerdb_omim"} = join(",", sort(@disease_list));
+        $annotations_href->{$fusion}->{SIMPLE}->{"chimerdb_omim"} = 1;
+    }
     
     return;
 }

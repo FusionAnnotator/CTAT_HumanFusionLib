@@ -35,9 +35,8 @@ sub load_data {
             for (my $j = $i + 1; $j <= $#genes; $j++) {
                 my $gene_j = $genes[$j];
                 
-                $annotations_href->{"$gene_i--$gene_j"}->{"HGNC_GENEFAM"} = 1;
-                $annotations_href->{"$gene_j--$gene_i"}->{"HGNC_GENEFAM"} = 1;
-                
+                $annotations_href->{"$gene_i--$gene_j"}->{SIMPLE}->{"HGNC_GENEFAM"} = 1;
+                $annotations_href->{"$gene_j--$gene_i"}->{SIMPLE}->{"HGNC_GENEFAM"} = 1;
             }
         }
     }

@@ -20,7 +20,7 @@ sub load_data {
         my @x = split(/\t/);
         my $gene_id = $x[2];
                 
-        $annotations_href->{$gene_id}->{"Oncogene{Bushman}"} = 1;    
+        $annotations_href->{$gene_id}->{SIMPLE}->{"$gene_id:Oncogene"} = 1;    
         
     }
     close $fh;

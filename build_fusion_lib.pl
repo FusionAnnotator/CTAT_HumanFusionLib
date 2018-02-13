@@ -7,7 +7,7 @@ use FindBin;
 use lib ("$FindBin::Bin/PerlLib");
 use Getopt::Long qw(:config posix_default no_ignore_case bundling pass_through);
 use File::Basename;
-
+use JSON::XS;
 
 my $fusion_annot_lib = "$FindBin::Bin/fusion_lib_data";
 
@@ -70,21 +70,45 @@ sub build_index {
         
     }
 
+    print STDERR "-generating report.\n";
+    
     ## build the index file
     {
+        
+        
+        
         # generate tab file
                 
         foreach my $gene_pair (sort keys %annotations) {
+
+            my @simple_annots;
+            if (exists $annotations{$gene_pair}->{SIMPLE}) {
+                @simple_annots = keys %{$annotations{$gene_pair}->{SIMPLE}};
+            }
+            my $complex_annots_href = {};
+            if (exists $annotations{$gene_pair}->{COMPLEX}) {
+                $complex_annots_href = $annotations{$gene_pair}->{COMPLEX};
+            }
+
+            my ($geneA, $geneB) = split(/--/, $gene_pair);
             
-            my @annots = keys %{$annotations{$gene_pair}};
+            my $simple_json = ".";
+            if (@simple_annots) {
+                $simple_json = encode_json([@simple_annots]);
+                $complex_annots_href->{ATTS} = [@simple_annots];
+                
+            }
+
+            my $complex_json = ".";
+            if (%$complex_annots_href)  {
+                $complex_json = encode_json($complex_annots_href);
+            }
             
-            @annots = sort @annots;
-            my $annot_string = join(",", @annots);
-            
-            print join("\t", $gene_pair, $annot_string) . "\n";
+            print join("\t", $gene_pair, $simple_json, $complex_json) . "\n";
         }
     }
-
+    print STDERR "Done.\n\n";
+    
     exit(0);
 
 }

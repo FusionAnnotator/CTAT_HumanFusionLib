@@ -13,7 +13,8 @@ sub load_data {
     while (<$fh>) {
         chomp;
         my ($fusion, $tumor_types) = split(/\t/);
-        $annotations_href->{$fusion}->{"Mitelman{$tumor_types}"} = 1;
+        $annotations_href->{$fusion}->{COMPLEX}->{"Mitelman"} = $tumor_types;
+        $annotations_href->{$fusion}->{SIMPLE}->{"Mitelman"} = 1;
     }
     close $fh;
     

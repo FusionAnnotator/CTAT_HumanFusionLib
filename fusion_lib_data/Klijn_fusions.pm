@@ -43,10 +43,11 @@ sub load_data {
             push (@annots, "$tissue=$count");
         }
         
-        my $annot = "{Klijn_CCL:" . join(",", @annots) . "}";
+        my $annot = "{Klijn_CellLines:" . join(",", @annots) . "}";
         $annot =~ s/\s+/_/g;
         
-        $annotations_href->{$fusion}->{$annot} = 1;
+        $annotations_href->{$fusion}->{COMPLEX}->{"Klijn_CellLines"} = $annot;
+        $annotations_href->{$fusion}->{SIMPLE}->{"Klijn_CellLines"} = 1;
         
     }
     

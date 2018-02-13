@@ -24,7 +24,7 @@ sub load_data {
             my @aliases = split(/\|/, $alias_text);
             foreach my $alias (@aliases) {
                 if (! exists $annotations_href->{$alias}) {
-                    $annotations_href->{$alias}->{$annotation} = 1;
+                    $annotations_href->{$alias}->{COMPLEX}->{HGNC} = "$alias: $annotation";
                 }
             }
         }

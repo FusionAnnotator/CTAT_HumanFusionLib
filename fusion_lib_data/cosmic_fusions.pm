@@ -15,7 +15,9 @@ sub load_data {
         if (/^\#/) { next; }
         my ($fusion, $samples, $mutations, $papers) = split(/\s+/);
         $fusion =~ s|/|--|;
-        $annotations_href->{$fusion}->{"Cosmic{samples=$samples,mutations=$mutations,papers=$papers}"} = 1;
+        $annotations_href->{$fusion}->{COMPLEX}->{"Cosmic"} = "Cosmic{samples=$samples,mutations=$mutations,papers=$papers}";
+        $annotations_href->{$fusion}->{SIMPLE}->{"Cosmic"} = 1; 
+                
         
     }
     close $fh;

@@ -10,7 +10,7 @@ sub load_data {
     print STDERR "-parsing TCGA recurrent fusions from Yoshihara Oncogene 2014\n";
     
     open (my $fh, $tcga_fusions_file) or confess "Error, cannot open file $tcga_fusions_file";
-   
+    
     my $topline = <$fh>;
     my $header = <$fh>;
     chomp $header;
@@ -32,9 +32,8 @@ sub load_data {
             }
         }
         
-        my $fusion_annot = "YOSHIHARA_TCGA_num_samples[" . join("|", @fusion_annots) . "]";
-        
-        $annotations_href->{$fusion}->{$fusion_annot} = 1;
+        $annotations_href->{$fusion}->{COMPLEX}->{"YOSHIHARA_TCGA"} = join("|", @fusion_annots);
+        $annotations_href->{$fusion}->{SIMPLE}->{"YOSHIHARA_TCGA"} = 1;
         
     }
     close $fh;
