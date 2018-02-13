@@ -18,9 +18,23 @@ sub load_data {
     while (<$fh>) {
         chomp;
         my @x = split(/\t/);
-        my $gene_id = $x[2];
-                
-        $annotations_href->{$gene_id}->{SIMPLE}->{"$gene_id:Oncogene"} = 1;    
+        my $gene_id = $x[0];
+
+        my @gene_ids;
+        push (@gene_ids, $gene_id);
+
+        my @prev_symbols = split(/,/, $x[2]);
+        push (@gene_ids, @prev_symbols) if @prev_symbols;
+
+        my @synonyms = split(/,/, $x[3]);
+        push (@gene_ids, @synonyms) if @synonyms;
+
+        foreach my $gene_id (@gene_ids) {
+            
+            if ($gene_id =~ /\w/) {
+                $annotations_href->{$gene_id}->{SIMPLE}->{"$gene_id:Oncogene"} = 1;
+            }
+        }
         
     }
     close $fh;
