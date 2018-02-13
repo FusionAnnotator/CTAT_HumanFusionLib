@@ -949,22 +949,22 @@ http://www.genenames.org/genefamilies/ATP#AATP	AATP	ATPases / AAA-type	PSMC5	955
 http://www.genenames.org/genefamilies/ATP#AATP	AATP	ATPases / AAA-type	PSMC6	9553
 http://www.genenames.org/genefamilies/ATP#AATP	AATP	ATPases / AAA-type	RUVBL1	10474
 http://www.genenames.org/genefamilies/ATP#AATP	AATP	ATPases / AAA-type	RUVBL2	10475
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5A1	823
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5B	830
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5C1	833
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5D	837
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5E	838
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5F1	840
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5G1	841
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5G2	842
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5G3	843
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5H	845
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5I	846
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5J	847
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5J2	848
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5L	14247
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5L2	13213
-http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5O	850
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5F1A	823
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5F1B	830
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5F1C	833
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5F1D	837
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5F1E	838
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5MC1	841
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5MC2	842
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5MC3	843
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5ME	846
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5MF	848
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5MG	14247
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5MGL	13213
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5PB	840
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5PD	845
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5PF	847
+http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	ATP5PO	850
 http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	MT-ATP6	7414
 http://www.genenames.org/genefamilies/ATP#F1ATP	F1ATP	ATPases / F-type	MT-ATP8	7415
 http://www.genenames.org/genefamilies/ATP#PATP	PATP	ATPases / P-type	ATP13A2	30213
@@ -1245,12 +1245,12 @@ http://www.genenames.org/genefamilies/BPIF	BPIF	BPI fold containing	CETP	1869
 http://www.genenames.org/genefamilies/BPIF	BPIF	BPI fold containing	LBP	6517
 http://www.genenames.org/genefamilies/BPIF	BPIF	BPI fold containing	PLTP	9093
 http://www.genenames.org/genefamilies/BRICD	BRICD	BRICHOS domain containing	BRICD5	28309
+http://www.genenames.org/genefamilies/BRICD	BRICD	BRICHOS domain containing	CNMD	17005
 http://www.genenames.org/genefamilies/BRICD	BRICD	BRICHOS domain containing	GKN1	23217
 http://www.genenames.org/genefamilies/BRICD	BRICD	BRICHOS domain containing	GKN2	24588
 http://www.genenames.org/genefamilies/BRICD	BRICD	BRICHOS domain containing	ITM2A	6173
 http://www.genenames.org/genefamilies/BRICD	BRICD	BRICHOS domain containing	ITM2B	6174
 http://www.genenames.org/genefamilies/BRICD	BRICD	BRICHOS domain containing	ITM2C	6175
-http://www.genenames.org/genefamilies/BRICD	BRICD	BRICHOS domain containing	LECT1	17005
 http://www.genenames.org/genefamilies/BRICD	BRICD	BRICHOS domain containing	SFTPC	10802
 http://www.genenames.org/genefamilies/BRICD	BRICD	BRICHOS domain containing	TNMD	17757
 http://www.genenames.org/genefamilies/BTBD	BTBD	BTB/POZ domain containing	ABTB1	18275
@@ -1501,7 +1501,7 @@ http://www.genenames.org/genefamilies/C2SET	C2SET	Immunoglobulin superfamily / C
 http://www.genenames.org/genefamilies/C2SET	C2SET	Immunoglobulin superfamily / C2-set domain containing	CD22	1643
 http://www.genenames.org/genefamilies/C2SET	C2SET	Immunoglobulin superfamily / C2-set domain containing	CD274	17635
 http://www.genenames.org/genefamilies/C2SET	C2SET	Immunoglobulin superfamily / C2-set domain containing	ICOSLG	17087
-http://www.genenames.org/genefamilies/C2SET	C2SET	Immunoglobulin superfamily / C2-set domain containing	KIRREL	15734
+http://www.genenames.org/genefamilies/C2SET	C2SET	Immunoglobulin superfamily / C2-set domain containing	KIRREL1	15734
 http://www.genenames.org/genefamilies/C2SET	C2SET	Immunoglobulin superfamily / C2-set domain containing	KIRREL2	18816
 http://www.genenames.org/genefamilies/C2SET	C2SET	Immunoglobulin superfamily / C2-set domain containing	KIRREL3	23204
 http://www.genenames.org/genefamilies/C2SET	C2SET	Immunoglobulin superfamily / C2-set domain containing	MAG	6783
@@ -2414,6 +2414,7 @@ http://www.genenames.org/genefamilies/CYP	CYP	Cytochrome P450s	CYP1D1P	39968
 http://www.genenames.org/genefamilies/CYP	CYP	Cytochrome P450s	CYP2A6	2610
 http://www.genenames.org/genefamilies/CYP	CYP	Cytochrome P450s	CYP2A7	2611
 http://www.genenames.org/genefamilies/CYP	CYP	Cytochrome P450s	CYP2A7P1	2612
+http://www.genenames.org/genefamilies/CYP	CYP	Cytochrome P450s	CYP2A7P2	2613
 http://www.genenames.org/genefamilies/CYP	CYP	Cytochrome P450s	CYP2A13	2608
 http://www.genenames.org/genefamilies/CYP	CYP	Cytochrome P450s	CYP2AB1P	39975
 http://www.genenames.org/genefamilies/CYP	CYP	Cytochrome P450s	CYP2AC1P	39976
@@ -2605,15 +2606,17 @@ http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB106A	18088
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB106B	28879
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB107A	18086
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB107B	31918
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB108A	18089
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB108B	29966
-http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB108P1	18089
-http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB108P2	30847
-http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB108P3	26227
-http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB108P4	30174
-http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB109P1	18090
-http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB109P1B	33469
-http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB109P2	30592
-http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB109P3	30838
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB108C	30847
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB108D	26227
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB108E	30174
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB108F	38062
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB109A	18090
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB109B	33469
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB109D	30838
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB109E	30592
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB109F	38066
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB110	18091
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB112	18093
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB113	18094
@@ -2632,8 +2635,12 @@ http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB126	15900
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB127	16206
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB128	18106
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB129	16218
-http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB130	18107
-http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB131	18108
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB130A	18107
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB130D	38059
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB131A	18108
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB131B	38058
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB131C	38060
+http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB131D	38061
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB132	33806
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB133	31331
 http://www.genenames.org/genefamilies/DEFB	DEFB	Defensins, beta	DEFB134	32399
@@ -2874,7 +2881,7 @@ http://www.genenames.org/genefamilies/EFHAND	EFHAND	EF-hand domain containing	RP
 http://www.genenames.org/genefamilies/EFHAND	EFHAND	EF-hand domain containing	S100A7L2	21655
 http://www.genenames.org/genefamilies/EFHAND	EFHAND	EF-hand domain containing	SCGN	16941
 http://www.genenames.org/genefamilies/EFHAND	EFHAND	EF-hand domain containing	SDF4	24188
-http://www.genenames.org/genefamilies/EFHAND	EFHAND	EF-hand domain containing	SEPN1	15999
+http://www.genenames.org/genefamilies/EFHAND	EFHAND	EF-hand domain containing	SELENON	15999
 http://www.genenames.org/genefamilies/EFHAND	EFHAND	EF-hand domain containing	SMOC2	20323
 http://www.genenames.org/genefamilies/EFHAND	EFHAND	EF-hand domain containing	SPARCL1	11220
 http://www.genenames.org/genefamilies/EFHAND	EFHAND	EF-hand domain containing	SPATA21	28026
@@ -2954,10 +2961,10 @@ http://www.genenames.org/genefamilies/ELMO	ELMO	Engulfment and cell motility pro
 http://www.genenames.org/genefamilies/ELMO	ELMO	Engulfment and cell motility proteins	ELMO2	17233
 http://www.genenames.org/genefamilies/ELMO	ELMO	Engulfment and cell motility proteins	ELMO3	17289
 http://www.genenames.org/genefamilies/ELP	ELP	Elongator acetyltransferase complex subunits	ELP2	18248
+http://www.genenames.org/genefamilies/ELP	ELP	Elongator acetyltransferase complex subunits	ELP1	5959
 http://www.genenames.org/genefamilies/ELP	ELP	Elongator acetyltransferase complex subunits	ELP4	1171
 http://www.genenames.org/genefamilies/ELP	ELP	Elongator acetyltransferase complex subunits	ELP5	30617
 http://www.genenames.org/genefamilies/ELP	ELP	Elongator acetyltransferase complex subunits	ELP6	25976
-http://www.genenames.org/genefamilies/ELP	ELP	Elongator acetyltransferase complex subunits	IKBKAP	5959
 http://www.genenames.org/genefamilies/ELP	ELP	Elongator acetyltransferase complex subunits	ELP3	20696
 http://www.genenames.org/genefamilies/EMID	EMID	EMI domain containing	EMID1	18036
 http://www.genenames.org/genefamilies/EMID	EMID	EMI domain containing	EMILIN1	19880
@@ -3300,6 +3307,7 @@ http://www.genenames.org/genefamilies/FBX#FBXL	FBXL	F-boxes / Leucine-rich repea
 http://www.genenames.org/genefamilies/FBX#FBXL	FBXL	F-boxes / Leucine-rich repeats	SKP2	10901
 http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO7	13586
 http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	CCNF	1591
+http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBH1	13620
 http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO2	13581
 http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO3	13582
 http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO4	13583
@@ -3311,7 +3319,6 @@ http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO10	13
 http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO15	13617
 http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO16	13618
 http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO17	18754
-http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO18	13620
 http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO21	13592
 http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO22	13593
 http://www.genenames.org/genefamilies/FBX#FBXO	FBXO	F-boxes /  "other"	FBXO24	13595
@@ -3702,6 +3709,7 @@ http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 dom
 http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	GALNT14	22946
 http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	GALNT15	21531
 http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	GALNT16	23233
+http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	GALNT17	16347
 http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	GALNT18	30488
 http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	GALNTL5	21725
 http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	GALNTL6	33844
@@ -3709,7 +3717,6 @@ http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 dom
 http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	HAS2	4819
 http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	HAS3	4820
 http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	UGCG	12524
-http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	WBSCR17	16347
 http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	B4GALNT1	4117
 http://www.genenames.org/genefamilies/GLT2	GLT2	Glycosyltransferase family 2 domain containing	B4GALNT2	24136
 http://www.genenames.org/genefamilies/GLT6	GLT6	Glycosyltransferase family 6 domain containing	A3GALT2	30005
@@ -4028,7 +4035,7 @@ http://www.genenames.org/genefamilies/GPCRA#SSTR	SSTR	GPCR / Class A : Somatosta
 http://www.genenames.org/genefamilies/GPCRA#SSTR	SSTR	GPCR / Class A : Somatostatin receptors	SSTR5	11334
 http://www.genenames.org/genefamilies/GPCRA#TAAR	TAAR	GPCR / Class A : Trace amine associated receptors	TAAR1	17734
 http://www.genenames.org/genefamilies/GPCRA#TAAR	TAAR	GPCR / Class A : Trace amine associated receptors	TAAR2	4514
-http://www.genenames.org/genefamilies/GPCRA#TAAR	TAAR	GPCR / Class A : Trace amine associated receptors	TAAR3	4513
+http://www.genenames.org/genefamilies/GPCRA#TAAR	TAAR	GPCR / Class A : Trace amine associated receptors	TAAR3P	4513
 http://www.genenames.org/genefamilies/GPCRA#TAAR	TAAR	GPCR / Class A : Trace amine associated receptors	TAAR4P	31924
 http://www.genenames.org/genefamilies/GPCRA#TAAR	TAAR	GPCR / Class A : Trace amine associated receptors	TAAR5	30236
 http://www.genenames.org/genefamilies/GPCRA#TAAR	TAAR	GPCR / Class A : Trace amine associated receptors	TAAR6	20978
@@ -5213,7 +5220,7 @@ http://www.genenames.org/genefamilies/IGD	IGD	Immunoglobulin superfamily / Immun
 http://www.genenames.org/genefamilies/IGD	IGD	Immunoglobulin superfamily / Immunoglobulin-like domain containing	PVR	9705
 http://www.genenames.org/genefamilies/IGD	IGD	Immunoglobulin superfamily / Immunoglobulin-like domain containing	BCAM	6722
 http://www.genenames.org/genefamilies/IGD	IGD	Immunoglobulin superfamily / Immunoglobulin-like domain containing	AGER	320
-http://www.genenames.org/genefamilies/IGD	IGD	Immunoglobulin superfamily / Immunoglobulin-like domain containing	KIRREL	15734
+http://www.genenames.org/genefamilies/IGD	IGD	Immunoglobulin superfamily / Immunoglobulin-like domain containing	KIRREL1	15734
 http://www.genenames.org/genefamilies/IGD	IGD	Immunoglobulin superfamily / Immunoglobulin-like domain containing	KIRREL2	18816
 http://www.genenames.org/genefamilies/IGD	IGD	Immunoglobulin superfamily / Immunoglobulin-like domain containing	KIRREL3	23204
 http://www.genenames.org/genefamilies/IGD	IGD	Immunoglobulin superfamily / Immunoglobulin-like domain containing	CADM1	5951
@@ -5581,7 +5588,7 @@ http://www.genenames.org/genefamilies/ISET	ISET	Immunoglobulin superfamily / I-s
 http://www.genenames.org/genefamilies/ISET	ISET	Immunoglobulin superfamily / I-set domain containing	IL1RL1	5998
 http://www.genenames.org/genefamilies/ISET	ISET	Immunoglobulin superfamily / I-set domain containing	KALRN	4814
 http://www.genenames.org/genefamilies/ISET	ISET	Immunoglobulin superfamily / I-set domain containing	KDR	6307
-http://www.genenames.org/genefamilies/ISET	ISET	Immunoglobulin superfamily / I-set domain containing	KIRREL	15734
+http://www.genenames.org/genefamilies/ISET	ISET	Immunoglobulin superfamily / I-set domain containing	KIRREL1	15734
 http://www.genenames.org/genefamilies/ISET	ISET	Immunoglobulin superfamily / I-set domain containing	KIRREL2	18816
 http://www.genenames.org/genefamilies/ISET	ISET	Immunoglobulin superfamily / I-set domain containing	KIRREL3	23204
 http://www.genenames.org/genefamilies/ISET	ISET	Immunoglobulin superfamily / I-set domain containing	L1CAM	6470
@@ -6312,10 +6319,10 @@ http://www.genenames.org/genefamilies/LTBP	LTBP	Latent transforming growth facto
 http://www.genenames.org/genefamilies/LTBP	LTBP	Latent transforming growth factor, beta binding proteins	LTBP4	6717
 http://www.genenames.org/genefamilies/LYRM	LYRM	LYR motif containing	NDUFA6	7690
 http://www.genenames.org/genefamilies/LYRM	LYRM	LYR motif containing	NDUFB9	7704
+http://www.genenames.org/genefamilies/LYRM	LYRM	LYR motif containing	ETFRF1	27052
 http://www.genenames.org/genefamilies/LYRM	LYRM	LYR motif containing	LYRM1	25074
 http://www.genenames.org/genefamilies/LYRM	LYRM	LYR motif containing	LYRM2	25229
 http://www.genenames.org/genefamilies/LYRM	LYRM	LYR motif containing	LYRM4	21365
-http://www.genenames.org/genefamilies/LYRM	LYRM	LYR motif containing	LYRM5	27052
 http://www.genenames.org/genefamilies/LYRM	LYRM	LYR motif containing	LYRM7	28072
 http://www.genenames.org/genefamilies/LYRM	LYRM	LYR motif containing	LYRM9	27314
 http://www.genenames.org/genefamilies/LYRM	LYRM	LYR motif containing	SDHAF1	33867
@@ -7532,7 +7539,7 @@ http://www.genenames.org/genefamilies/OR#OR8	OR8	GPCR / Class A : Olfactory rece
 http://www.genenames.org/genefamilies/OR#OR8	OR8	GPCR / Class A : Olfactory receptors	OR8D4	14840
 http://www.genenames.org/genefamilies/OR#OR8	OR8	GPCR / Class A : Olfactory receptors	OR8F1P	14691
 http://www.genenames.org/genefamilies/OR#OR8	OR8	GPCR / Class A : Olfactory receptors	OR8G1	8484
-http://www.genenames.org/genefamilies/OR#OR8	OR8	GPCR / Class A : Olfactory receptors	OR8G2	8485
+http://www.genenames.org/genefamilies/OR#OR8	OR8	GPCR / Class A : Olfactory receptors	OR8G2P	8485
 http://www.genenames.org/genefamilies/OR#OR8	OR8	GPCR / Class A : Olfactory receptors	OR8G3P	14698
 http://www.genenames.org/genefamilies/OR#OR8	OR8	GPCR / Class A : Olfactory receptors	OR8G5	19622
 http://www.genenames.org/genefamilies/OR#OR8	OR8	GPCR / Class A : Olfactory receptors	OR8G7P	19625
@@ -7634,8 +7641,8 @@ http://www.genenames.org/genefamilies/P2R	P2R	Purinergic receptors	P2RY11	8540
 http://www.genenames.org/genefamilies/P2R	P2R	Purinergic receptors	P2RY12	18124
 http://www.genenames.org/genefamilies/P2R	P2R	Purinergic receptors	P2RY13	4537
 http://www.genenames.org/genefamilies/P2R	P2R	Purinergic receptors	P2RY14	16442
+http://www.genenames.org/genefamilies/P2R	P2R	Purinergic receptors	P2RY10BP	32924
 http://www.genenames.org/genefamilies/P2R	P2R	Purinergic receptors	P2RY10P1	19063
-http://www.genenames.org/genefamilies/P2R	P2R	Purinergic receptors	P2RY10P2	32924
 http://www.genenames.org/genefamilies/PADI	PADI	Peptidyl arginine deiminases	PADI1	18367
 http://www.genenames.org/genefamilies/PADI	PADI	Peptidyl arginine deiminases	PADI2	18341
 http://www.genenames.org/genefamilies/PADI	PADI	Peptidyl arginine deiminases	PADI3	18337
@@ -7676,13 +7683,12 @@ http://www.genenames.org/genefamilies/PAR#PAR2	PAR2	Pseudoautosomal regions / PA
 http://www.genenames.org/genefamilies/PAR#PAR2	PAR2	Pseudoautosomal regions / PAR2	AMD1P2	460
 http://www.genenames.org/genefamilies/PAR#PAR2	PAR2	Pseudoautosomal regions / PAR2	DDX11L16	37115
 http://www.genenames.org/genefamilies/PAR#PAR2	PAR2	Pseudoautosomal regions / PAR2	DPH3P2	38719
+http://www.genenames.org/genefamilies/PAR#PAR2	PAR2	Pseudoautosomal regions / PAR2	ELOCP24	38160
 http://www.genenames.org/genefamilies/PAR#PAR2	PAR2	Pseudoautosomal regions / PAR2	SPRY3	11271
-http://www.genenames.org/genefamilies/PAR#PAR2	PAR2	Pseudoautosomal regions / PAR2	TCEB1P24	38160
 http://www.genenames.org/genefamilies/PAR#PAR2	PAR2	Pseudoautosomal regions / PAR2	TRPC6P	23270
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	PLA2G6	9039
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	EIF4G1	3296
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	LRRK2	18618
-http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	PARK2	8607
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	PARK3	8608
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	PARK7	16369
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	PARK10	17833
@@ -7690,6 +7696,7 @@ http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	PARK11	17963
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	PARK12	34510
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	PARK16	37450
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	PINK1	14581
+http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	PRKN	8607
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	SNCA	11138
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	UCHL1	12513
 http://www.genenames.org/genefamilies/PARK	PARK	Parkinson disease	VPS35	13487
@@ -7830,6 +7837,7 @@ http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	JADE2	22984
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	JADE3	22982
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	MLLT6	7138
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	MLLT10	16063
+http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	NSD2	12766
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	PHF3	8921
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	PHF5A	18000
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	PHF6	18145
@@ -7850,7 +7858,6 @@ http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	SP140	17133
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	SP140L	25105
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	TAF3	17303
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	TCF19	11629
-http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	WHSC1	12766
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	PHRF1	24351
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	UHRF2	12557
 http://www.genenames.org/genefamilies/PHF	PHF	Zinc fingers, PHD-type	MTF2	29535
@@ -8112,8 +8119,8 @@ http://www.genenames.org/genefamilies/PNMA	PNMA	Paraneoplastic Ma antigens	PNMA3
 http://www.genenames.org/genefamilies/PNMA	PNMA	Paraneoplastic Ma antigens	PNMA5	18743
 http://www.genenames.org/genefamilies/PNMA	PNMA	Paraneoplastic Ma antigens	PNMA6A	28248
 http://www.genenames.org/genefamilies/PNMA	PNMA	Paraneoplastic Ma antigens	PNMA6B	26681
-http://www.genenames.org/genefamilies/PNMA	PNMA	Paraneoplastic Ma antigens	PNMAL1	25578
-http://www.genenames.org/genefamilies/PNMA	PNMA	Paraneoplastic Ma antigens	PNMAL2	29206
+http://www.genenames.org/genefamilies/PNMA	PNMA	Paraneoplastic Ma antigens	PNMA8A	25578
+http://www.genenames.org/genefamilies/PNMA	PNMA	Paraneoplastic Ma antigens	PNMA8B	29206
 http://www.genenames.org/genefamilies/PNMA	PNMA	Paraneoplastic Ma antigens	ZCCHC12	27273
 http://www.genenames.org/genefamilies/PNMA	PNMA	Paraneoplastic Ma antigens	ZCCHC18	32459
 http://www.genenames.org/genefamilies/PNPLA	PNPLA	Patatin-like phospholipase domain containing	PLA2G6	9039
@@ -8275,8 +8282,8 @@ http://www.genenames.org/genefamilies/PPP-PPM-CTD#PPP1R	PPP1R	Serine/threonine p
 http://www.genenames.org/genefamilies/PPP-PPM-CTD#PPP1R	PPP1R	Serine/threonine phosphatases / Protein phosphatase 1, regulatory subunits	ELL	23114
 http://www.genenames.org/genefamilies/PPP-PPM-CTD#PPP1R	PPP1R	Serine/threonine phosphatases / Protein phosphatase 1, regulatory subunits	FKBP15	23397
 http://www.genenames.org/genefamilies/PPP-PPM-CTD#PPP1R	PPP1R	Serine/threonine phosphatases / Protein phosphatase 1, regulatory subunits	HYDIN	19368
-http://www.genenames.org/genefamilies/PPP-PPM-CTD#PPP1R	PPP1R	Serine/threonine phosphatases / Protein phosphatase 1, regulatory subunits	KIAA0430	29562
 http://www.genenames.org/genefamilies/PPP-PPM-CTD#PPP1R	PPP1R	Serine/threonine phosphatases / Protein phosphatase 1, regulatory subunits	KNL1	24054
+http://www.genenames.org/genefamilies/PPP-PPM-CTD#PPP1R	PPP1R	Serine/threonine phosphatases / Protein phosphatase 1, regulatory subunits	MARF1	29562
 http://www.genenames.org/genefamilies/PPP-PPM-CTD#PPP1R	PPP1R	Serine/threonine phosphatases / Protein phosphatase 1, regulatory subunits	PPP1R1A	9286
 http://www.genenames.org/genefamilies/PPP-PPM-CTD#PPP1R	PPP1R	Serine/threonine phosphatases / Protein phosphatase 1, regulatory subunits	PPP1R1B	9287
 http://www.genenames.org/genefamilies/PPP-PPM-CTD#PPP1R	PPP1R	Serine/threonine phosphatases / Protein phosphatase 1, regulatory subunits	PPP1R1C	14940
@@ -8391,7 +8398,7 @@ http://www.genenames.org/genefamilies/PRSS#PRSS	PRSS	Serine peptidases / Serine 
 http://www.genenames.org/genefamilies/PRSS#PRSS	PRSS	Serine peptidases / Serine peptidases	PRSS43	37323
 http://www.genenames.org/genefamilies/PRSS#PRSS	PRSS	Serine peptidases / Serine peptidases	PRSS44	37324
 http://www.genenames.org/genefamilies/PRSS#PRSS	PRSS	Serine peptidases / Serine peptidases	PRSS45	30717
-http://www.genenames.org/genefamilies/PRSS#PRSS	PRSS	Serine peptidases / Serine peptidases	PRSS46	37325
+http://www.genenames.org/genefamilies/PRSS#PRSS	PRSS	Serine peptidases / Serine peptidases	PRSS46P	37325
 http://www.genenames.org/genefamilies/PRSS#PRSS	PRSS	Serine peptidases / Serine peptidases	PRSS47	37326
 http://www.genenames.org/genefamilies/PRSS#PRSS	PRSS	Serine peptidases / Serine peptidases	PRSS48	24635
 http://www.genenames.org/genefamilies/PRSS#PRSS	PRSS	Serine peptidases / Serine peptidases	PRSS50	17910
@@ -8876,8 +8883,8 @@ http://www.genenames.org/genefamilies/RBM	RBM	RNA binding motif (RRM) containing
 http://www.genenames.org/genefamilies/RBM	RBM	RNA binding motif (RRM) containing	RBM22	25503
 http://www.genenames.org/genefamilies/RBM	RBM	RNA binding motif (RRM) containing	RBM26	20327
 http://www.genenames.org/genefamilies/RBM	RBM	RNA binding motif (RRM) containing	RBM27	29243
-http://www.genenames.org/genefamilies/RBM	RBM	RNA binding motif (RRM) containing	ZRSR1	12456
 http://www.genenames.org/genefamilies/RBM	RBM	RNA binding motif (RRM) containing	ZRSR2	23019
+http://www.genenames.org/genefamilies/RBM	RBM	RNA binding motif (RRM) containing	ZRSR2P1	12456
 http://www.genenames.org/genefamilies/RBM	RBM	RNA binding motif (RRM) containing	RBM4	9901
 http://www.genenames.org/genefamilies/RBM	RBM	RNA binding motif (RRM) containing	RBM4B	28842
 http://www.genenames.org/genefamilies/RBM	RBM	RNA binding motif (RRM) containing	ZCRB1	29620
@@ -9135,7 +9142,7 @@ http://www.genenames.org/genefamilies/RNF	RNF	RING-type (C3HC4) zinc fingers	MAR
 http://www.genenames.org/genefamilies/RNF	RNF	RING-type (C3HC4) zinc fingers	MARCH7	17393
 http://www.genenames.org/genefamilies/RNF	RNF	RING-type (C3HC4) zinc fingers	MARCH8	23356
 http://www.genenames.org/genefamilies/RNF	RNF	RING-type (C3HC4) zinc fingers	MARCH9	25139
-http://www.genenames.org/genefamilies/RNF	RNF	RING-type (C3HC4) zinc fingers	RFWD2	17440
+http://www.genenames.org/genefamilies/RNF	RNF	RING-type (C3HC4) zinc fingers	COP1	17440
 http://www.genenames.org/genefamilies/RNF	RNF	RING-type (C3HC4) zinc fingers	RFWD3	25539
 http://www.genenames.org/genefamilies/RNF	RNF	RING-type (C3HC4) zinc fingers	PML	9113
 http://www.genenames.org/genefamilies/RNF	RNF	RING-type (C3HC4) zinc fingers	TRIM2	15974
@@ -10032,7 +10039,6 @@ http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC25A6	10992
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	DIRC2	16628
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	FLVCR1	24682
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	FLVCR2	20105
-http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	MFSD7	26177
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	MTCH1	17586
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	MTCH2	17587
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	RHBG	14572
@@ -10231,7 +10237,7 @@ http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC22A15	20301
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC22A16	20302
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC22A17	23095
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC22A18	10964
-http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC22A20	29867
+http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC22A20P	29867
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC22A23	21106
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC22A24	28542
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC22A25	32935
@@ -10447,6 +10453,7 @@ http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC46A3	27501
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC47A1	25588
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC47A2	26439
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC48A1	26035
+http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC49A3	26177
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC50A1	30657
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC51A	29955
 http://www.genenames.org/genefamilies/SLC	SLC	Solute carriers	SLC51B	29956
@@ -10743,7 +10750,6 @@ http://www.genenames.org/genefamilies/TASNR#TAS2R	TAS2R	Taste receptors / Type 2
 http://www.genenames.org/genefamilies/TASNR#TAS2R	TAS2R	Taste receptors / Type 2	TAS2R63P	20641
 http://www.genenames.org/genefamilies/TASNR#TAS2R	TAS2R	Taste receptors / Type 2	TAS2R64P	20642
 http://www.genenames.org/genefamilies/TBX	TBX	T-boxes	EOMES	3372
-http://www.genenames.org/genefamilies/TBX	TBX	T-boxes	T	11515
 http://www.genenames.org/genefamilies/TBX	TBX	T-boxes	TBR1	11590
 http://www.genenames.org/genefamilies/TBX	TBX	T-boxes	TBX1	11592
 http://www.genenames.org/genefamilies/TBX	TBX	T-boxes	TBX2	11597
@@ -10759,6 +10765,7 @@ http://www.genenames.org/genefamilies/TBX	TBX	T-boxes	TBX20	11598
 http://www.genenames.org/genefamilies/TBX	TBX	T-boxes	TBX21	11599
 http://www.genenames.org/genefamilies/TBX	TBX	T-boxes	TBX22	11600
 http://www.genenames.org/genefamilies/TBX	TBX	T-boxes	TBX23P	11601
+http://www.genenames.org/genefamilies/TBX	TBX	T-boxes	TBXT	11515
 http://www.genenames.org/genefamilies/TBX	TBX	T-boxes	MGA	14010
 http://www.genenames.org/genefamilies/TCTN	TCTN	Tectonic proteins	TCTN1	26113
 http://www.genenames.org/genefamilies/TCTN	TCTN	Tectonic proteins	TCTN2	25774
@@ -11264,7 +11271,6 @@ http://www.genenames.org/genefamilies/TRIM#TRIMP	TRIMP	Triparite motif-containin
 http://www.genenames.org/genefamilies/TRIM#TRIMP	TRIMP	Triparite motif-containing / Pseudogenes	TRIM64DP	43974
 http://www.genenames.org/genefamilies/TRIM#TRIMP	TRIMP	Triparite motif-containing / Pseudogenes	TRIM64EP	43975
 http://www.genenames.org/genefamilies/TRIM#TRIMP	TRIMP	Triparite motif-containing / Pseudogenes	TRIM64FP	43976
-http://www.genenames.org/genefamilies/TRIM#TRIMP	TRIMP	Triparite motif-containing / Pseudogenes	TRIM78P	17232
 http://www.genenames.org/genefamilies/TSEN	TSEN	tRNA splicing endonuclease subunits	TSEN2	28422
 http://www.genenames.org/genefamilies/TSEN	TSEN	tRNA splicing endonuclease subunits	TSEN15	16791
 http://www.genenames.org/genefamilies/TSEN	TSEN	tRNA splicing endonuclease subunits	TSEN34	15506
@@ -11331,7 +11337,7 @@ http://www.genenames.org/genefamilies/TTC	TTC	Tetratricopeptide (TTC) repeat dom
 http://www.genenames.org/genefamilies/TTC	TTC	Tetratricopeptide (TTC) repeat domain containing	CFAP70	30726
 http://www.genenames.org/genefamilies/TTC	TTC	Tetratricopeptide (TTC) repeat domain containing	CNOT10	23817
 http://www.genenames.org/genefamilies/TTC	TTC	Tetratricopeptide (TTC) repeat domain containing	CTR9	16850
-http://www.genenames.org/genefamilies/TTC	TTC	Tetratricopeptide (TTC) repeat domain containing	DYX1C1	21493
+http://www.genenames.org/genefamilies/TTC	TTC	Tetratricopeptide (TTC) repeat domain containing	DNAAF4	21493
 http://www.genenames.org/genefamilies/TTC	TTC	Tetratricopeptide (TTC) repeat domain containing	FKBP4	3720
 http://www.genenames.org/genefamilies/TTC	TTC	Tetratricopeptide (TTC) repeat domain containing	FKBP5	3721
 http://www.genenames.org/genefamilies/TTC	TTC	Tetratricopeptide (TTC) repeat domain containing	FKBP8	3724
@@ -11491,7 +11497,7 @@ http://www.genenames.org/genefamilies/UBE2	UBE2	Ubiquitin-conjugating enzymes E2
 http://www.genenames.org/genefamilies/UBE2	UBE2	Ubiquitin-conjugating enzymes E2	UBE2L2	12487
 http://www.genenames.org/genefamilies/UBE2	UBE2	Ubiquitin-conjugating enzymes E2	UBE2L3	12488
 http://www.genenames.org/genefamilies/UBE2	UBE2	Ubiquitin-conjugating enzymes E2	UBE2L4	12489
-http://www.genenames.org/genefamilies/UBE2	UBE2	Ubiquitin-conjugating enzymes E2	UBE2L5P	13477
+http://www.genenames.org/genefamilies/UBE2	UBE2	Ubiquitin-conjugating enzymes E2	UBE2L5	13477
 http://www.genenames.org/genefamilies/UBE2	UBE2	Ubiquitin-conjugating enzymes E2	UBE2L6	12490
 http://www.genenames.org/genefamilies/UBE2	UBE2	Ubiquitin-conjugating enzymes E2	UBE2M	12491
 http://www.genenames.org/genefamilies/UBE2	UBE2	Ubiquitin-conjugating enzymes E2	UBE2N	12492
@@ -12037,7 +12043,6 @@ http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-s
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	SIRPB2	16247
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	SIRPD	16248
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	AMIGO1	20824
-http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	C10orf54	30085
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	CD300LB	30811
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	CD300LD	16848
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	CD300LF	29883
@@ -12071,6 +12076,7 @@ http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-s
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	TREML4	30807
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	VPREB3	12710
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	VSIG8	32063
+http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	VSIR	30085
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	VSTM2A	28499
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	VSTM2B	33595
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	VSTM2L	16096
@@ -12078,13 +12084,14 @@ http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-s
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	VSTM5	34443
 http://www.genenames.org/genefamilies/VSET	VSET	Immunoglobulin superfamily / V-set domain containing	SEMA3D	10726
 http://www.genenames.org/genefamilies/WASH	WASH	WAS protein homologs	WASH6P	31685
-http://www.genenames.org/genefamilies/WASH	WASH	WAS protein homologs	WASH1	24361
 http://www.genenames.org/genefamilies/WASH	WASH	WAS protein homologs	WASH2P	33145
 http://www.genenames.org/genefamilies/WASH	WASH	WAS protein homologs	WASH3P	24362
 http://www.genenames.org/genefamilies/WASH	WASH	WAS protein homologs	WASH4P	14126
 http://www.genenames.org/genefamilies/WASH	WASH	WAS protein homologs	WASH5P	33884
 http://www.genenames.org/genefamilies/WASH	WASH	WAS protein homologs	WASH7P	38034
+http://www.genenames.org/genefamilies/WASH	WASH	WAS protein homologs	WASHC1	24361
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	AMBRA1	25990
+http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	COP1	17440
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	COPA	2230
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	DCAF4	20229
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	DCAF5	20224
@@ -12099,7 +12106,6 @@ http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	EFCAB8
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	IFT122	13556
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	PHIP	15673
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	PRPF19	17896
-http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	RFWD2	17440
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	RFWD3	25539
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	THOC3	19072
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	THOC6	28369
@@ -12171,6 +12177,7 @@ http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	DMXL2	
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	DPH7	25199
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	EED	3188
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	EIF3I	3272
+http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	EIPR1	12383
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	EML1	3330
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	EML2	18035
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	EML3	26666
@@ -12256,7 +12263,6 @@ http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	TLE2	1
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	TLE3	11839
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	TLE4	11840
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	TLE6	30788
-http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	TSSC1	12383
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	TULP4	15530
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	UTP4	1983
 http://www.genenames.org/genefamilies/WDR	WDR	WD repeat domain containing	UTP15	25758
@@ -12433,8 +12439,8 @@ http://www.genenames.org/genefamilies/ZC3H	ZC3H	Zinc fingers, CCCH-type domain c
 http://www.genenames.org/genefamilies/ZC3H	ZC3H	Zinc fingers, CCCH-type domain containing	ZC3H7B	30869
 http://www.genenames.org/genefamilies/ZC3H	ZC3H	Zinc fingers, CCCH-type domain containing	ZC3HAV1	23721
 http://www.genenames.org/genefamilies/ZC3H	ZC3H	Zinc fingers, CCCH-type domain containing	ZGPAT	15948
-http://www.genenames.org/genefamilies/ZC3H	ZC3H	Zinc fingers, CCCH-type domain containing	ZRSR1	12456
 http://www.genenames.org/genefamilies/ZC3H	ZC3H	Zinc fingers, CCCH-type domain containing	ZRSR2	23019
+http://www.genenames.org/genefamilies/ZC3H	ZC3H	Zinc fingers, CCCH-type domain containing	ZRSR2P1	12456
 http://www.genenames.org/genefamilies/ZC3H	ZC3H	Zinc fingers, CCCH-type domain containing	PPP1R10	9284
 http://www.genenames.org/genefamilies/ZC3H	ZC3H	Zinc fingers, CCCH-type domain containing	HELZ	16878
 http://www.genenames.org/genefamilies/ZC3H	ZC3H	Zinc fingers, CCCH-type domain containing	MBNL1	6923
@@ -12469,18 +12475,18 @@ http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain cont
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC18	32459
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCRB1	29620
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	LIN28A	15986
+http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	RTL3	22997
+http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	RTL4	25214
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	SF1	12950
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC2	22916
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC3	16230
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC4	22917
-http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC5	22997
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC6	25817
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC7	26209
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC8	25265
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC10	25954
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC11	28981
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC13	31749
-http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC16	25214
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC17	30246
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC23	32963
 http://www.genenames.org/genefamilies/ZCCHC	ZCCHC	Zinc fingers, CCHC domain containing	ZCCHC24	26911
@@ -13235,7 +13241,7 @@ http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZNF784	331
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZNF785	26496
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZNF786	21806
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZNF787	26998
-http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZNF788	33112
+http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZNF788P	33112
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZNF789	27801
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZNF790	33114
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZNF791	26895
@@ -13281,7 +13287,7 @@ http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN4	237
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN5A	23710
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN5B	34246
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN5C	34294
-http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN5D	37706
+http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN5DP	37706
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN9	12984
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN10	12997
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN12	13172
@@ -13297,7 +13303,7 @@ http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN29	26
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN30	33517
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN31	14097
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZSCAN32	20812
-http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZUFSP	21224
+http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZUP1	21224
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZXDA	13198
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZXDB	13199
 http://www.genenames.org/genefamilies/ZNF	ZNF	Zinc fingers, C2H2-type	ZXDC	28160
@@ -13380,7 +13386,6 @@ http://www.genenames.org/genefamilies/blood-group	bloodgroup	Blood group antigen
 http://www.genenames.org/genefamilies/blood-group	bloodgroup	Blood group antigens	ACHE	108
 http://www.genenames.org/genefamilies/blood-group	bloodgroup	Blood group antigens	GCNT2	4204
 http://www.genenames.org/genefamilies/blood-group	bloodgroup	Blood group antigens	GYPE	4705
-http://www.genenames.org/genefamilies/blood-group	bloodgroup	Blood group antigens	P1	8531
 http://www.genenames.org/genefamilies/blood-group	bloodgroup	Blood group antigens	SMIM1	44204
 http://www.genenames.org/genefamilies/blood-group	bloodgroup	Blood group antigens	XK	12811
 http://www.genenames.org/genefamilies/complement-system	complement	Complement system	C3	1318
@@ -13868,25 +13873,25 @@ http://www.genenames.org/genefamilies/lipocalin	LCN	Lipocalins	PTGDS	9592
 http://www.genenames.org/genefamilies/lipocalin	LCN	Lipocalins	RBP4	9922
 http://www.genenames.org/genefamilies/lipocalin	LCN	Lipocalins	APOM	13916
 http://www.genenames.org/genefamilies/lipocalin	LCN	Lipocalins	C8G	1354
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5A1	823
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5B	830
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5C1	833
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5D	837
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5E	838
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5F1	840
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5G1	841
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5G2	842
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5G3	843
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5H	845
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5I	846
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5J	847
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5J2	848
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5L	14247
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5L2	13213
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5O	850
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5F1A	823
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5F1B	830
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5F1C	833
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5F1D	837
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5F1E	838
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5MC1	841
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5MC2	842
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5MC3	843
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5ME	846
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5MF	848
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5MG	14247
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5MGL	13213
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5PB	840
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5PD	845
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5PF	847
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5PO	850
 http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	MT-ATP6	7414
 http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	MT-ATP8	7415
-http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATPIF1	871
+http://www.genenames.org/genefamilies/mitocomplex#FATP	FATP	Mitochondrial respiratory chain complex / Complex V	ATP5IF1	871
 http://www.genenames.org/genefamilies/mitocomplex#comI	comI	Mitochondrial respiratory chain complex / Complex I	NDUFA9	7693
 http://www.genenames.org/genefamilies/mitocomplex#comI	comI	Mitochondrial respiratory chain complex / Complex I	MT-ND1	7455
 http://www.genenames.org/genefamilies/mitocomplex#comI	comI	Mitochondrial respiratory chain complex / Complex I	MT-ND2	7456
@@ -14061,13 +14066,14 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	A2M-AS1	27057
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	A2ML1-AS1	41022
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	A2ML1-AS2	41523
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	AADACL2-AS1	50301
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	AATK-AS1	40053
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ABALON	49667
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ABCA9-AS1	39983
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ABCC5-AS1	40055
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ABHD11-AS1	18289
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ABHD15-AS1	49685
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ACAP2-IT1	41426
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ACBD3-AS1	40701
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ACOXL-AS1	41112
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ACTA2-AS1	45169
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ACTN1-AS1	20131
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ACVR2B-AS1	44161
@@ -14083,7 +14089,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ADIRF-AS1	45127
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ADORA2A-AS1	37122
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ADPGK-AS1	44144
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	AFAP1-AS1	28141
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	AFDN-AS1	21236
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	AFDN-DT	21236
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	AFF2-IT1	41334
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	AGAP1-IT1	41427
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	AGAP2-AS1	48633
@@ -14120,6 +14126,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGAP5-AS1	2027
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGAP22-IT1	42944
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGAP26-AS1	40792
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGAP26-IT1	41429
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGAP27P1	28630
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGAP31-AS1	41235
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGEF3-AS1	40083
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGEF7-AS1	39816
@@ -14129,7 +14136,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGEF9-IT1	4140
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGEF19-AS1	39996
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGEF26-AS1	41048
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARHGEF38-IT1	41483
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARID4B-IT1	41407
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARMC2-AS1	41008
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARMCX3-AS1	41038
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ARNTL2-AS1	49892
@@ -14146,6 +14152,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ATG10-AS1	40914
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ATG10-IT1	41455
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ATP1A1-AS1	28262
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ATP1B3-AS1	40088
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ATP2B1-AS1	27883
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ATP2B2-IT1	41309
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ATP2B2-IT2	41310
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ATP6V0E2-AS1	44180
@@ -14176,7 +14183,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	BIRC6-AS2	50490
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	BMP7-AS1	40096
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	BOK-AS1	35125
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	BOLA3-AS1	42922
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	BRD2-IT1	41311
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	BRD3OS	24742
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	BRE-AS1	44171
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	BRWD1-AS1	40614
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	BRWD1-AS2	16423
@@ -14187,9 +14194,9 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	BTBD9-AS1	40959
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	BVES-AS1	21223
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C1QTNF1-AS1	44351
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C1QTNF9-AS1	39906
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C1QTNF9B-AS1	39839
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C1RL-AS1	27461
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C2-AS1	49464
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C2orf92	49272
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C3orf67-AS1	41063
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C4A-AS1	39753
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C4B-AS1	39752
@@ -14199,8 +14206,10 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C6orf47-AS1	3976
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C8orf37-AS1	50444
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C9orf135-AS1	48713
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C10orf71-AS1	45007
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C10orf143	48677
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C11orf97	49544
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C20orf166-AS1	26393
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C13orf42	42693
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C20orf204	27655
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	C21orf91-OT1	16729
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CACNA1C-AS1	40119
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CACNA1C-AS2	40118
@@ -14222,7 +14231,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CARMN	42872
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CARS-AS1	40125
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CASC2	22933
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CASC6	49076
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CASC7	48905
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CASC9	48906
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CASC15	28245
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CASC16	48608
@@ -14239,10 +14247,12 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CCDC39-AS1	41089
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CCDC148-AS1	44134
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CCDC183-AS1	44105
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CCDC192	49566
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CCDC196	20100
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CCDC197	19860
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CCND2-AS1	49398
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CCND2-AS2	49399
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CCNT2-AS1	40130
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CD27-AS1	43896
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CD44-AS1	40133
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CD81-AS1	49384
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CDC37L1-AS1	49735
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CDC42-IT1	41317
@@ -14254,7 +14264,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CDR1-AS	48926
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CDRT7	14386
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CEBPA-AS1	25710
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CECR3	1841
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CECR5-AS1	1842
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CECR7	1845
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CECR9	1847
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CELF2-AS1	23515
@@ -14265,6 +14274,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CERS6-AS1	44485
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CFAP44-AS1	41113
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CFAP58-AS1	45243
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CFLAR-AS1	14437
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CFTR-AS1	40144
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CHKB-AS1	40146
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CHL1-AS1	40148
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CHL1-AS2	40147
@@ -14275,6 +14285,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CIRBP-AS1	28588
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CISTR	49426
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CKMT2-AS1	48997
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CLDN10-AS1	39907
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CLEC20A	34521
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CLIP1-AS1	48586
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CLRN1-AS1	30895
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CLSTN2-AS1	49095
@@ -14294,16 +14305,19 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	COX10-AS1	38873
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CPB2-AS1	39898
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CPEB2-AS1	49082
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CPS1-IT1	30102
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CRHR1-IT1	26327
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CRYM-AS1	34405
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CSMD2-AS1	40882
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CSNK1G2-AS1	28604
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CSTF3-AS1	27882
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CTBP1-AS	48337
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CTBP1-AS2	28307
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CTXND1	50507
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CUTALP	27367
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CXXC4-AS1	41054
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CYP1B1-AS1	28543
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CYP4A22-AS1	43715
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CYP17A1-AS1	31671
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	CYTOR	28717
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	DAB1-AS1	49443
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	DACT3-AS1	44120
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	DANCR	28964
@@ -14312,6 +14326,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	DAPK1-IT1	43591
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	DARS-AS1	40170
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	DBET	43904
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	DBH-AS1	24155
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	DCST1-AS1	41147
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	DCTN1-AS1	44151
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	DCUN1D2-AS	39889
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	DDC-AS1	40171
@@ -14389,16 +14404,16 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EGFR-AS1	40207
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EGLN3-AS1	49077
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EGOT	37129
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EHHADH-AS1	44133
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EHMT1-IT1	48714
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EHMT2-AS1	39751
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EIF1AX-AS1	40208
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EIF1B-AS1	44555
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EIF2B5-AS1	40209
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EIF2B5-IT1	41330
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EIF3J-AS1	48616
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EIPR1-IT1	41392
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ELDR	49511
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ELF3-AS1	40211
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ELFN1-AS1	39071
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ELMO1-AS1	40765
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ELN-AS1	40212
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ELOVL2-AS1	44156
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EMC3-AS1	49223
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EMX2OS	18511
@@ -14417,9 +14432,10 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EPN2-IT1	41445
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ERC2-IT1	1229
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ERI3-IT1	41431
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ERICD	49404
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ERICH1-AS1	32290
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ERICH3-AS1	41093
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ERICH6-AS1	41205
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ERLNC1	41109
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ETDB	44269
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ETV5-AS1	40222
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EVX1-AS	40223
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	EWSAT1	26596
@@ -14439,7 +14455,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM66C	21644
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM66D	24159
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM66E	18735
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM74A1	32029
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM74A2	32030
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM74A3	32031
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM74A4	32032
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM74A6	34036
@@ -14476,13 +14491,16 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM225A	27855
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM225B	21865
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM226A	28544
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM226B	31964
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM236A	44268
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM238A	17776
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM238B	44917
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAM238C	24672
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FANK1-AS1	43915
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAR1-IT1	41485
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FARP1-AS1	40229
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FARSA-AS1	50479
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FAS-AS1	37128
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FBXL19-AS1	27557
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FBXO22-AS1	31025
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FBXO36-IT1	41489
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FENDRR	43894
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FER1L6-AS1	26652
@@ -14525,6 +14543,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FTX	37190
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FUT8-AS1	44294
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	FZD10-AS1	48632
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GABPB1-AS1	44157
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GABPB1-IT1	25469
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GAS5	16355
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GAS5-AS1	44119
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GAS6-AS1	39826
@@ -14562,6 +14581,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GRM7-AS2	40266
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GRM7-AS3	42444
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GRPEL2-AS1	48999
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GRTP1-AS1	39917
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GSEC	48645
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GSN-AS1	23372
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GTF3C2-AS1	40269
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	GTSE1-AS1	27163
@@ -14581,7 +14601,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCG9	21243
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCG11	17707
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCG14	18323
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCG15	18361
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCG16	20424
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCG17	31339
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCG18	31337
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCG20	31334
@@ -14594,7 +14613,9 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCG26	29671
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCG27	27366
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCP5	21659
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HCP5B	30984
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HDAC2-AS2	43590
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HDAC11-AS1	40868
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HDHD5-AS1	1842
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HECW1-IT1	41465
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HELLPAR	43984
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	HEXA-AS1	25810
@@ -14651,6 +14672,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IGBP1-AS2	40294
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IGF2-AS	14062
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IGFBP7-AS1	40296
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IGSF11-AS1	40777
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IGSF21-AS1	41190
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IL10RB-AS1	44303
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IL12A-AS1	49094
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IL20RB-AS1	40298
@@ -14664,6 +14686,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	INTS6-AS1	42691
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	INTS6L-AS1	41180
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IPO9-AS1	40892
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IPW	6109
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IQANK1	49576
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IQCA1-AS1	41137
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IQCF5-AS1	41297
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	IQCH-AS1	44104
@@ -14711,10 +14734,10 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KCNQ5-IT1	41354
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KCTD21-AS1	48674
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KDM4A-AS1	40528
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KDM5C-IT1	41384
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KIAA0196-AS1	43440
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KIF9-AS1	26822
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KIF25-AS1	20953
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KIRREL-IT1	41412
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KIF26B-AS1	41098
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KIRREL1-IT1	41412
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KIRREL3-AS1	42655
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KIRREL3-AS2	42656
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	KIRREL3-AS3	26855
@@ -14757,16 +14780,12 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00029	16184
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00032	16506
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00051	32028
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00052	26455
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00083	34521
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00092	31408
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00094	24742
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00111	1262
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00112	1263
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00113	1264
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00114	1265
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00115	26211
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00116	27339
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00152	28717
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00158	1283
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00159	1285
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00160	1294
@@ -14774,12 +14793,9 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00161	17138
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00167	30468
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00173	33791
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00174	27788
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00176	27655
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00184	37192
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00189	18461
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00200	30974
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00202-1	24672
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00202-2	44917
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00205	16420
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00207	37255
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00208	15535
@@ -14792,7 +14808,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00226	20168
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00229	13240
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00235	14138
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00237	38166
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00238	20100
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00239	20119
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00240	18772
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00242	21249
@@ -14802,7 +14817,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00251	31950
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00254	14160
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00260	28770
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00261	16189
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00264	17776
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00265	28019
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00266-1	16202
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00266-3	21112
@@ -14815,7 +14829,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00276	38663
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00278	38712
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00279	38724
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00280	38803
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00282	26737
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00283	38809
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00284	26981
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00290	38515
@@ -14855,7 +14868,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00334	16425
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00336	33813
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00337	28620
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00339	25011
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00341	20353
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00342	42470
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00343	42500
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00345	42503
@@ -14879,7 +14891,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00366	42688
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00367	42689
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00368	42690
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00370	42692
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00371	42693
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00374	42698
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00375	42699
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00376	42701
@@ -14905,7 +14916,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00398	42727
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00399	42728
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00400	42729
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00402	42732
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00403	42733
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00404	42734
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00407	42739
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00408	42740
@@ -14965,7 +14975,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00488	32675
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00489	43426
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00491	43428
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00492	43429
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00493	43430
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00494	27657
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00498	43435
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00499	43436
@@ -14973,18 +14982,17 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00500	43437
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00501	43439
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00502	43442
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00504	43555
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00505	43556
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00506	43557
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00507	43558
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00508	43559
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00511	43564
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00513	43566
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00514	27549
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00515	16019
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00517	19831
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00518	28626
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00519	19838
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00520	19843
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00521	19860
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00523	20117
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00524	20118
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00525	40290
@@ -15036,7 +15044,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00588	24494
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00589	32299
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00592	27474
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00593	32382
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00594	32358
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00595	31430
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00596	23167
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00597	1193
@@ -15051,7 +15058,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00606	43931
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00607	43944
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00608	27179
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00609	43960
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00610	23262
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00612	28621
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00613	44060
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00614	30165
@@ -15069,7 +15075,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00628	27008
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00629	44262
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00630	44263
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00632	27865
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00633	44269
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00634	27930
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00635	27184
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00636	27702
@@ -15101,7 +15106,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00671	44339
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00672	44353
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00673	44354
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00674	44355
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00675	44356
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00676	44394
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00677	20121
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00678	44413
@@ -15109,7 +15113,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00680	44417
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00681	44423
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00682	44466
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00683	44467
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00684	44268
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00686	16221
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00687	16194
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00689	27217
@@ -15172,7 +15175,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00886	48572
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00887	48574
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00888	48575
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00889	26410
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00890	48576
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00891	48577
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00892	48578
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00893	44265
@@ -15192,7 +15194,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00908	27599
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00909	44331
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00910	44361
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00911	48596
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00914	48604
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00917	48607
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00919	48610
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00920	48611
@@ -15207,8 +15208,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00929	48615
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00930	48620
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00933	48625
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00934	27059
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00935	48628
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00936	27883
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00937	48629
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00938	48630
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00939	48631
@@ -15222,15 +15221,12 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00951	48662
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00954	48668
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00957	22332
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00958	48671
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00959	48677
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00960	48710
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00961	27244
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00963	48716
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00964	27226
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00965	28022
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00967	48725
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00968	48727
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00969	48729
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00970	48730
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00971	48737
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC00972	48826
@@ -15264,10 +15260,8 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01016	48991
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01018	27394
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01019	27742
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01020	27968
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01021	48995
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01022	48998
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01023	49004
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01024	49009
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01028	49014
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01029	49015
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01030	49016
@@ -15291,9 +15285,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01050	49044
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01052	49046
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01054	49048
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01055	49049
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01057	49057
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01058	49061
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01059	49074
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01060	49081
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01061	49084
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01063	49092
@@ -15342,7 +15334,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01120	49265
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01121	49266
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01122	49267
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01123	49269
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01125	49272
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01126	49275
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01127	49292
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01128	49377
@@ -15360,6 +15351,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01142	49456
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01143	49458
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01144	49460
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01146	49467
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01148	27507
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01149	39757
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01150	49469
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01151	49471
@@ -15399,7 +15391,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01203	49634
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01204	49635
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01205	49636
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01206	49637
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01207	49638
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01208	49639
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01209	49640
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01210	49642
@@ -15449,7 +15440,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01268	50323
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01269	50325
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01270	27658
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01271	50327
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01272	50328
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01273	50329
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01276	50333
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01277	50334
@@ -15470,13 +15460,13 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01298	32292
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01299	27839
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01300	50460
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01301	50464
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01303	50470
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01304	50472
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01305	27690
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01309	50497
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01310	50501
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01311	50503
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01312	28525
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01314	50507
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01318	50524
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01320	50526
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01322	50528
@@ -15491,8 +15481,14 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01389	50661
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01424	40558
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01451	48599
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01617	30442
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01839	41330
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC01840	40209
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC02210	26327
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC02569	39760
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINC02570	39766
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LINCMD1	49089
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LIPE-AS1	48589
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LIX1L-AS1	41210
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LLPH-AS1	50493
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LMCD1-AS1	44477
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LMF1-AS1	50469
@@ -15512,6 +15508,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LRRC3DN	1270
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LRRC75A-AS1	28619
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LSAMP-AS1	40350
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LSINCT5	37824
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LUARIS	40992
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LURAP1L-AS1	49761
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LY86-AS1	26593
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	LYST-AS1	41320
@@ -15526,12 +15523,13 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAGI1-IT1	42436
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAGI2-AS1	40860
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAGI2-AS2	40861
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAGI2-AS3	40862
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAGI2-IT1	30058
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MALAT1	29665
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MALINC1	49009
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAMDC2-AS1	48719
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAN1B1-AS1	48715
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MANEA-AS1	43732
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAP3K14-AS1	44359
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAP3K20-AS1	27935
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAPKAPK5-AS1	24091
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAPT-AS1	43738
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MAPT-IT1	43741
@@ -15551,12 +15549,13 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MEG8	14574
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MEG9	43874
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MEIS1-AS2	40370
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MEIS1-AS3	40369
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MELTF-AS1	40373
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MEOX2-AS1	50672
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MESTIT1	17991
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MFI2-AS1	40373
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIAT	33425
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MID1IP1-AS1	40932
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIMT1	33464
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR1-1HG-AS1	26393
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR7-3HG	30049
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR9-3HG	27388
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR124-2HG	48723
@@ -15573,6 +15572,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR381HG	20136
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR497HG	39523
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR670HG	49204
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR924HG	44332
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR3936HG	40538
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR4435-2HG	35163
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR4458HG	49008
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MIR4500HG	42773
@@ -15586,9 +15586,8 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MKNK1-AS1	44129
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MKRN3-AS1	12910
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MLIP-AS1	40963
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MLIP-IT1	41461
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MLK7-AS1	27935
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MME-AS1	40376
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MMP24-AS1	44421
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MMP24OS	44421
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MNX1-AS1	48954
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MNX1-AS2	40278
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	MORC1-AS1	40377
@@ -15633,6 +15632,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NBR2	20691
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NCAM1-AS1	48675
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NCBP2-AS1	40392
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NCBP2-AS2	25121
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NCF4-AS1	40393
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NCK1-AS1	49645
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NCKAP5-IT1	41497
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NCOA7-AS1	40954
@@ -15643,6 +15643,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NDUFA6-AS1	45273
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NDUFB2-AS1	40396
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NEAT1	30815
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NEBL-AS1	44899
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NECTIN3-AS1	40813
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NEGR1-IT1	41432
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NEXN-AS1	31983
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NFIA-AS1	40402
@@ -15654,7 +15655,9 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NKX2-1-AS1	40585
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NKX2-2-AS1	37154
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NLGN1-AS1	40676
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NLGN4Y-AS1	38793
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NMBR-AS1	40406
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NNT-AS1	49005
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NOL4L-DT	44310
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NOP14-AS1	20205
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NORAD	44311
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	NOVA1-AS1	19827
@@ -15719,7 +15722,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCAT6	43714
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCAT19	49593
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCBP1-AS1	42948
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCBP2-OT1	49150
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCBP3-OT1	33548
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCCA-AS1	39901
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCDH9-AS1	39897
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCDH9-AS2	39896
@@ -15729,9 +15731,10 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCED1B-AS1	44166
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCGEM1	30145
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCNA-AS1	37184
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCOLCE-AS1	40430
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCOTH	39839
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCOTHP1	39840
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PCYT1B-AS1	40431
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PDCD4-AS1	27425
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PDX1-AS1	43698
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PDZRN3-AS1	40814
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PEG3-AS1	35127
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PEX5L-AS1	41251
@@ -15757,6 +15760,8 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PLCXD2-AS1	41145
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PLS1-AS1	40451
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PLS3-AS1	50343
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PLSCR5-AS1	40907
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PLUT	43698
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	POLH-AS1	40459
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	POT1-AS1	49459
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	POTEH-AS1	40058
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	POU6F2-AS1	40979
@@ -15772,6 +15777,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PRINS	34235
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PRKAG2-AS1	40468
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PRKAR2A-AS1	40471
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PRKCQ-AS1	44689
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PRKCZ-AS1	40477
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PRKG1-AS1	45029
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PRKX-AS1	40479
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PRMT5-AS1	40533
@@ -15781,7 +15787,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PRR7-AS1	27961
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PRR34-AS1	50499
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PRRT3-AS1	41151
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PSMB8-AS1	39758
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PSMD5-AS1	27367
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PSMD6-AS1	40480
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PSMD6-AS2	44125
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PSMG3-AS1	22230
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PSORS1C3	17203
@@ -15794,7 +15800,8 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PTOV1-AS1	44174
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PTPRD-AS1	49753
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PTPRD-AS2	49754
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PTPRG-AS1	44638
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PVRL3-AS1	40813
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PURPL	48995
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PVALEF	40053
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PWAR4	29998
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PWAR6	49129
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	PWRN3	49131
@@ -15882,6 +15889,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SEMA3F-AS1	40518
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SENCR	44177
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SEPSECS-AS1	27737
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SERTAD4-AS1	32019
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SERTM2	48576
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SGMS1-AS1	49683
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SGO1-AS1	41081
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SH3BP5-AS1	44501
@@ -15898,14 +15906,17 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC2A1-AS1	44187
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC6A1-AS1	40546
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC7A11-AS1	44064
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC8A1-AS1	44102
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC9A3-AS1	40550
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC9A9-AS1	40928
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC9A9-AS2	40929
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC12A9-AS1	40807
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC16A1-AS1	49445
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC25A5-AS1	43438
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC25A21-AS1	44298
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC25A30-AS1	42795
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC26A4-AS1	22385
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC39A12-AS1	44881
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLC44A3-AS1	49057
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLCO4A1-AS1	40537
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLFNL1-AS1	44126
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SLIT2-IT1	41383
@@ -15923,6 +15934,13 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMIM2-AS1	42674
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMIM2-IT1	41492
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMIM10L2A	34499
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMIM10L2B	34500
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMIM15-AS1	41293
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMIM25	50328
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMIM26	43430
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMIM27	31420
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMIM31	49638
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMIM35	44179
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMIM37	27339
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SMYD3-IT1	41406
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SNAI3-AS1	28327
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SNAP25-AS1	44312
@@ -15951,9 +15969,11 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SNRK-AS1	41269
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SOCS2-AS1	27054
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SORCS3-AS1	45244
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SOS1-IT1	41385
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SOX1-OT	42733
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SOX2-OT	20209
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SOX9-AS1	49321
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SOX21-AS1	39807
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SPAAR	27244
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SPACA6P-AS	49383
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SPAG5-AS1	41140
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SPANXA2-OT1	31683
@@ -15965,7 +15985,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SPATA41	48613
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SPATA42	41198
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SPIN4-AS1	41177
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SPRY4-IT1	42394
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SPTY2D1-AS1	44122
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SPTY2D1OS	44122
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SRD5A3-AS1	44138
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SRGAP2-AS1	40902
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SRGAP3-AS1	40898
@@ -15977,7 +15997,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SRRM2-AS1	44162
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SSBP3-AS1	32328
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SSSCA1-AS1	27384
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	SSTR5-AS1	26502
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ST3GAL4-AS1	48645
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ST3GAL6-AS1	40828
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ST6GAL2-IT1	41380
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ST7-AS1	16000
@@ -16018,10 +16037,12 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TCEAL3-AS1	41191
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TCERG1L-AS1	49532
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TCF7L1-IT1	41388
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TCL6	13463
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TDRKH-AS1	40578
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TET2-AS1	41125
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TEX26-AS1	42784
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TEX36-AS1	49500
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TEX41	48667
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TEX49	48628
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TFAP2A-AS1	40579
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TGFA-IT1	41389
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TGFB2-OT1	50629
@@ -16050,17 +16071,18 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TMEM161B-AS1	438
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TMEM212-AS1	41939
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TMEM212-IT1	41505
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TMEM220-AS1	44357
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TMEM238L	44356
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TMEM254-AS1	27340
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TMEM272	26737
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TMLHE-AS1	44261
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TMPO-AS1	44158
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TMPRSS4-AS1	44179
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TNFRSF14-AS1	26966
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TNK2-AS1	49093
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TNKS2-AS1	45173
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TNR-IT1	41391
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TNRC6C-AS1	44360
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TOB1-AS1	44340
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TOLLIP-AS1	27403
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TOPORS-AS1	31420
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TP53COR1	43652
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TP73-AS1	29052
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TPRG1-AS1	42391
@@ -16069,6 +16091,7 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TPT1-AS1	43686
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TRAF3IP2-AS1	40005
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TRAM2-AS1	48663
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TRAPPC12-AS1	41046
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TRDN-AS1	40592
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TRERNA1	44307
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TRG-AS1	48974
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TRHDE-AS1	27471
@@ -16083,7 +16106,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TSIX	12377
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TSPAN9-IT1	41462
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TSPEAR-AS1	1271
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TSPOAP1-AS1	44148
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TSSC1-IT1	41392
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TTC3-AS1	40595
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TTC21B-AS1	41115
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	TTC28-AS1	29336
@@ -16166,11 +16188,13 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	VIM-AS1	44879
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	VIPR1-AS1	40610
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	VPS9D1-AS1	48915
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	VPS13A-AS1	44167
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	VSIG10L2	27879
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	VWA8-AS1	44270
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	VWC2L-IT1	41508
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WAC-AS1	27347
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WARS2-IT1	41393
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WASF3-AS1	39841
+http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WASHC5-AS1	43440
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WASIR2	38609
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WDFY3-AS1	40935
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WDFY3-AS2	21603
@@ -16178,7 +16202,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WDR7-OT1	45131
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WDR11-AS1	27437
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WDR86-AS1	41186
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WEE2-AS1	48669
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WISP1-OT1	49126
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WNT5A-AS1	40616
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WT1-AS	18135
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	WWC2-AS1	41041
@@ -16233,7 +16256,6 @@ http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ZNF503-AS2	23525
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ZNF571-AS1	44324
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ZNF582-AS1	25213
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ZNF630-AS1	41215
-http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ZNF638-IT1	41434
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ZNF667-AS1	44321
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ZNF674-AS1	44266
 http://www.genenames.org/rna/LNCRNA	LNCRNA	Long non-coding RNAs	ZNF790-AS1	27617
@@ -17147,7 +17169,6 @@ http://www.genenames.org/rna/MIR	MIR	ncRNAs / Micro RNAs	MIR3529	41564
 http://www.genenames.org/rna/MIR	MIR	ncRNAs / Micro RNAs	MIR3591	41875
 http://www.genenames.org/rna/MIR	MIR	ncRNAs / Micro RNAs	MIR3605	38922
 http://www.genenames.org/rna/MIR	MIR	ncRNAs / Micro RNAs	MIR3606	38881
-http://www.genenames.org/rna/MIR	MIR	ncRNAs / Micro RNAs	MIR3607	38900
 http://www.genenames.org/rna/MIR	MIR	ncRNAs / Micro RNAs	MIR3609	38956
 http://www.genenames.org/rna/MIR	MIR	ncRNAs / Micro RNAs	MIR3610	38942
 http://www.genenames.org/rna/MIR	MIR	ncRNAs / Micro RNAs	MIR3611	38914
@@ -18184,7 +18205,9 @@ http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA 
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA48	32641
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA49	32642
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA50A	32643
+http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA50B	50432
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA50C	32662
+http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA50D	50433
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA51	32644
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA52	32645
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA53	32646
@@ -18223,6 +18246,8 @@ http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA 
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA78	32664
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA79	32665
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA80A	32666
+http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA80C	50434
+http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA80D	50435
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA80E	32635
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA81	32667
 http://www.genenames.org/rna/SNORNA	SNORA	ncRNAs / Small nucleolar RNAs : H/ACA box containing	SNORA84	33615
