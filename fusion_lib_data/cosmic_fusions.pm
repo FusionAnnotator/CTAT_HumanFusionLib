@@ -14,7 +14,8 @@ sub load_data {
         chomp;
         if (/^\#/) { next; }
         my ($fusion, $samples, $mutations, $papers) = split(/\s+/);
-        $fusion =~ s|/|--|;
+        $fusion =~ s/_ENST\d+//g;
+        $fusion =~ s|[/-]|--|;
         $annotations_href->{$fusion}->{COMPLEX}->{"Cosmic"} = "Cosmic{samples=$samples,mutations=$mutations,papers=$papers}";
         $annotations_href->{$fusion}->{SIMPLE}->{"Cosmic"} = 1; 
                 
