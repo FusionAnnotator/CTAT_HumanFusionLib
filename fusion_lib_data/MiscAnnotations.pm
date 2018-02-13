@@ -27,8 +27,8 @@ sub load_data {
     close $fh;
     
     foreach my $target (keys %panels) {
-        my @p = sort keys $panels{$target};
-
+        my @p = sort keys %{$panels{$target}};
+        
         my $panel_text = join(",", @p);
 
         $annotations_href->{$target}->{COMPLEX}->{"PANELS"} = $panel_text;
