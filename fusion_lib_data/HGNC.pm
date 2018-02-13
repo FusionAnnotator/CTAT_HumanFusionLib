@@ -16,14 +16,14 @@ sub load_data {
         my ($symbol, $name, $gene_type) = ($x[1], $x[2], $x[3]);
 
         my $annotation = "$name,[$gene_type]";
-        $annotations_href->{$symbol}->{$annotation} = 1;
+        $annotations_href->{$symbol}->{COMPLEX}->{HGNC} = $annotation;
         
         my $alias_text = $x[8];
         if ($alias_text) {
             $alias_text =~ s/\"//g;
             my @aliases = split(/\|/, $alias_text);
             foreach my $alias (@aliases) {
-                if (! exists $annotations_href->{$alias}) {
+                if (! exists $annotations_href->{$alias}->{COMPLEX}->{HGNC}) {
                     $annotations_href->{$alias}->{COMPLEX}->{HGNC} = "$alias: $annotation";
                 }
             }
