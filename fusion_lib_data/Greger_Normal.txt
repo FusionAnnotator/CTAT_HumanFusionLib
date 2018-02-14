@@ -1,0 +1,127 @@
+## Table S1
+
+MAPKAPK5->ACAD10 promoter_swap chr12 + 112308984 112182447 Holt et al, 2012 0 1 0 0 0
+POLR1A->REEP1 promoter_swap chr2 - 86292397 86509365 Holt et al, 2012 0 1 0 0 0
+PPIP5K1->CATSPER2 in-frame chr15 - 43857065 43924561 Kinsella et al, 2011 18 16 14 17 8
+TFG->GPR128 in-frame chr3 + 100438902 100348442 Chase et al, 2010 0 2 0 2 0
+TRIP12->SLC16A14 in-frame chr2 - 230723488 230902247 Hakimi et al, 2013 0 1 0 0 0
+TYK2->CDC37 in-frame chr19 - 10488890 10504113 novel 0 0 0 0 1
+VBP1->BRCC3 in-frame chrX + 154444852 154300602 novel 0 0 0 0 1
+YARS2->NAP1L1 out-of-frame chr12 - 32900010 76446890 Kinsella et al, 2011 3 3 1 1 3
+
+
+
+## Table S2
+
+Chimera Class Chr Strand Bp gene1 Bp gene 2 Novelty CEU GBR FIN TSI YRI
+AP5S1->MAVS promoter_swap chr20 + 3802940 3835205 AceView 1 2 2 2 3
+ARHGAP19->SLIT1 out-of-frame chr10 - 98988904 98924647 AceView 1 1 1 0 1
+C11orf48->INTS5 in-frame chr11 - 62430708 62417471 AceView 3 0 0 0 2
+C7orf55->LUC7L2 in-frame chr7 + 139030367 139060808 AceView 5 4 3 2 4
+CCL22->CX3CL1 out-of-frame chr16 + 57394472 57413546 novel 3 1 2 2 0
+CENPE->BDH2 promoter_swap chr4 - 104029960 104017431 novel 2 3 3 1 2
+CHURC1->FNTB out-of-frame chr14 + 65390844 65470967 AceView 1 7 6 7 8
+CLN6->CALML4 out-of-frame chr15 - 68521840 68489966 AceView 29 19 31 29 24
+CNPY2->CS promoter_swap chr12 - 56708635 56680429 AceView 5 2 3 3 7
+COPE->CERS1 out-of-frame chr19 - 19010682 18995076 AceView 1 0 0 0 0
+CORO7->PAM16 3UTR_swap chr16 - 4405287 4393292 AceView 6 6 7 3 2
+COX5A->EDC3 in-frame chr15 - 75230256 74932960 novel 0 0 0 0 1
+CTBS->GNG5 3UTR_swap chr1 - 85028940 84967653 AceView 31 24 33 33 29
+CTSC->RAB38 in-frame chr11 - 88033698 87883123 Nacu et al, 2011 2 2 4 2 1
+DDX5->POLG2 in-frame chr17 - 62496667 62489138 AceView 2 1 5 4 4
+ELAVL1->TIMM44 out-of-frame chr19 - 8038609 8006082 novel 0 1 1 0 0
+ENTPD1->C10orf131 promoter_swap chr10 + 97624618 97671058 novel 4 6 9 6 6
+FAM18B2->CDRT4 genuine readthrough chr17 - 15449099 15343599 AceView 9 28 33 19 21
+FKBP1A->SDCBP2 promoter_swap chr20 - 1373478 1301079 AceView 7 14 25 15 15
+GPI->PDCD2L in-frame chr19 + 34887562 34895554 AceView 26 34 27 32 30
+HACL1->COLQ 3UTR_swap chr3 - 15604865 15531144 AceView 2 2 6 3 7
+HAUS4->PRMT5 genuine readthrough chr14 - 23416380 23397824 AceView 2 2 5 3 2
+HMSD->SERPINB8 promoter_swap chr18 + 61627509 61645533 AceView 29 32 35 34 59
+HSPE1->MOBKL3 promoter_swap chr2 + 198367852 198388348 AceView 4 9 6 7 13
+IFNAR2->IL10RB 3UTR_swap chr21 + 34625135 34640699 AceView 2 2 4 2 3
+IFRD1->C7orf53 promoter_swap chr7 + 112112916 112124867 AceView 1 3 2 0 0
+ISY1->RAB43 3UTR_swap chr3 - 128853675 128814012 AceView 5 1 4 1 1
+JAK3->INSL3 out-of-frame chr19 - 17940917 17927868 novel 0 4 1 5 5
+KIAA0101->CSNK1G1 genuine readthrough chr15 - 64668942 64592922 AceView 0 0 2 2 7
+KIAA0494->ATPAF1 out-of-frame chr1 - 47148972 47131036 AceView 1 3 5 17 7
+LMAN2->MXD3 in-frame chr5 - 176761285 176738485 Nacu et al, 2011 6 1 4 1 1
+LRRC33->PIGX promoter_swap chr3 + 196381518 196443729 AceView 2 3 5 4 3
+LSP1->TNNT3 genuine readthrough chr11 + 1908806 1944087 novel 4 7 5 6 9
+MED8->ELOVL1 promoter_swap chr1 - 43850717 43831294 AceView 10 12 12 3 6
+METTL10->FAM53B promoter_swap chr10 - 126448886 126395455 AceView 2 2 2 2 3
+METTL21B->TSFM promoter_swap chr12 + 58166911 58176893 AceView 3 8 9 5 10
+NDUFA13->YJEFN3 in-frame chr19 + 19638579 19645843 AceView 10 11 6 8 3
+NDUFB8->SEC31B genuine readthrough chr10 - 102286156 102276717 AceView 35 38 38 30 46
+NRXN1->EIF2AK2 promoter_swap chr2 - 50574005 37374964 Francis et al, 2012 37 34 33 26 53
+NSUN4->FAAH in-frame chr1 + 46818700 46867763 AceView 3 4 10 7 2
+PEX26->TUBA8 promoter_swap chr22 + 18568024 18604246 AceView 0 1 0 2 2
+PFKFB4->SHISA5 genuine readthrough chr3 - 48559419 48538726 AceView 1 2 2 2 0
+PKHD1L1->EBAG9 promoter_swap chr8 + 110535615 110563039 novel 4 2 2 4 1
+PLEKHO2->ANKDD1A promoter_swap chr15 + 65153774 65214120 AceView 4 4 6 1 0
+POLA2->CDC42EP2 promoter_swap chr11 + 65063461 65088015 AceView 4 4 10 6 11
+PPRC1->NOLC1 out-of-frame chr10 + 103909086 103916776 novel 2 5 3 2 3
+PRH1->PRR4 3UTR_swap chr12 - 11034816 11001006 AceView 14 13 6 17 12
+PRIM1->NACA 3UTR_swap chr12 - 57127931 57108471 Francis et al, 2012 21 31 31 19 20
+PRKAA1->TTC33 promoter_swap chr5 - 40764616 40747121 Plebani et al., 2012 1 4 2 1 1
+PRR11->C17orf71 out-of-frame chr17 + 57275150 57289702 AceView 3 4 4 2 4
+PRR13->PCBP2 genuine readthrough chr12 + 53837557 53848510 AceView 4 5 9 5 20
+PXMP2->PGAM5 promoter_swap chr12 + 133266962 133291444 AceView 5 3 5 3 7
+RBM14->RBM4 promoter_swap chr11 + 66384528 66407171 AceView 68 63 71 56 71
+RNASET2->RPS6KA2 3UTR_swap chr6 - 167352383 167271747 AceView 22 32 28 27 36
+RRM2->C2orf48 promoter_swap chr2 + 10269281 10281981 AceView 70 85 84 77 83
+S1PR2->DNMT1 out-of-frame chr19 - 10341880 10292753 AceView 4 5 1 3 6
+SDHAF2->C11orf66 3UTR_swap chr11 + 61205585 61252160 AceView 0 5 7 1 3
+SDHD->TEX12 out-of-frame chr11 + 111959735 112041142 AceView 7 5 6 5 5
+SLC35A3->HIAT1 out-of-frame chr1 + 100483371 100515465 Salzman et al, 2012 4 2 3 5 3
+SLC39A1->CRTC2 in-frame chr1 - 153934696 153927642 AceView 23 22 26 17 42
+SLC43A3->PRG2 genuine readthrough chr11 - 57176648 57157429 AceView 52 69 72 66 51
+SMG1->ARL6IP1 promoter_swap chr16 - 18823083 18810156 novel 0 0 2 0 1
+SNTB2->VPS4A 3UTR_swap chr16 + 69333677 69349911 AceView 7 5 2 4 9
+SUMO2->HN1 promoter_swap chr17 - 73170847 73144766 Prakash et al, 2010 1 2 4 1 1
+SYNJ2BP->COX16 in-frame chr14 - 70842393 70809446 AceView 2 1 2 1 2
+TAGLN2->CCDC19 promoter_swap chr1 - 159895240 159863095 Nacu et al, 2011 10 15 12 7 5
+TAP2->HLA-DOB out-of-frame chr6 - 32797177 32783090 AceView 4 8 8 8 1
+TMBIM4->LLPH genuine readthrough chr12 - 66531740 66522892 AceView 1 2 0 0 3
+TNFAIP8L2->SCNM1 promoter_swap chr1 + 151129198 151138947 AceView 46 40 37 42 47
+TOMM5->FBXO10 genuine readthrough chr9 - 37588808 37541771 AceView 1 1 3 8 4
+TOPORS->DDX58 promoter_swap chr9 - 32550772 32500937 AceView 4 2 0 2 2
+TPD52L2->DNAJC5 promoter_swap chr20 + 62505169 62559688 AceView 2 5 5 1 4
+TSC22D4->C7orf61 in-frame chr7 - 100074900 100061309 AceView 6 8 13 6 6
+TSTD1->F11R in-frame chr1 - 161008670 160971143 AceView 27 36 25 24 22
+UBA2->WTIP in-frame chr19 + 34957919 34981281 novel 13 6 8 8 7
+UBE2J1->GABRR2 out-of-frame chr6 - 90039502 90009584 novel 1 4 2 3 7
+UBE2J2->FAM132A out-of-frame chr1 - 1192372 1179877 Kinsella et al, 2012 0 3 1 1 0
+UCHL3->LMO7 out-of-frame chr13 + 76169126 76195899 novel 13 17 13 9 14
+UQCRQ->LEAP2 3UTR_swap chr5 + 132203372 132209642 Kinsella et al, 2012 2 3 5 6 7
+VKORC1->PRSS53 in-frame chr16 - 31104633 31099147 AceView 3 2 1 4 1
+ZNF343->SNRPB promoter_swap chr20 - 2473345 2448404 AceView 7 12 8 9 11
+
+
+## Table S3
+
+Chimera Class Chr Bp gene 1 Strand gene1 Bp gene 2 Strand gene2 Novelty CEU GBR FIN TSI YRI
+C6orf72->PPIL4 3UTR_swap chr6 149887670 + 149862567 - novel 0 0 1 0 0
+NAIP->OCLN Promoter_swap chr5 70275696 - 68830521 + Courseaux et al., 2003 15 23 13 10 30
+SMC4->BCL6 Promoter_swap chr3 160117537 + 187452695 - novel 0 0 0 0 1
+ZNF175->CTU1 in-frame chr19 52085135 + 51602396 - novel 1 0 0 0 0
+EDARADD->ENO1 3UTR_swap chr1 236646645 + 8928116 - novel 18 18 11 17 16
+BPTF->LRRC37A3 Promoter_swap chr17 65822452 + 62894480 - novel 9 13 7 10 9
+
+## Table S4
+
+Fusion Class Chr gene1 Bp gene1 Strand gene 1 Chr gene2 Bp gene 2 Strand gene 2 Novelty CEU GBR FIN TSI YRI
+ACTB->POTEM 3UTR_swap chr7 5568295 - chr14 19988515 - Lee et al., 2006 16 15 18 19 13
+ACTB->POTEE in-frame chr7 5568201 - chr2 5568178 + Lee et al., 2006 19 22 23 19 27
+AIG1->PARL in-frame chr6 143654582 + chr3 183584546 - novel 5 4 5 6 7
+ARL4A->MTHFD1L out-of-frame chr7 12728059 + chr6 151257940 + novel 0 1 1 0 0
+C1orf189->TOX in-frame chr1 154172935 - chr8 59872567 - novel 0 0 0 0 1
+C2orf27A->NBEA Promoter_swap chr2 132508207 + chr13 35630149 + Salzman et a.l, 2011 9 3 7 4 5
+HILPDA->EFCAB3 out-of-frame chr7 128096077 + chr17 60491093 + Kinsella et al., 2011 24 17 25 19 18
+EEF1A1->XPOT out-of-frame cjhr6 74229188 - chr12 64813850 + novel 0 0 1 0 0
+FARSB->TRIM61 in-frame chr2 223513459 - chr4 165890827 - Edgren et al., 2011 13 18 19 21 30
+NHP2L1->LLPH Promoter_swap chr22 42076248 - chr12 66522893 - novel 3 4 3 5 17
+PRKCB->YBX1 in-frame chr16 24185897 + chr1 43162380 + novel 0 0 1 0 0
+RHOQ->LRR1 in-frame chr2 46808306 + hr14 50069088 + novel 3 4 3 6 11
+SAV1->GYPE in-frame chr14 51131897 - chr4 144801662 - novel 38 62 43 46 46
+SP100->HMGB1 in-frame chr2 231379941 + chr13 31037489 - Guldner et al., 1999 8 13 9 11 12
+ZNF562->RBAK 3UTR_swap chr19 9760594 - chr7 5103326 + novel 1 3 4 3 2
