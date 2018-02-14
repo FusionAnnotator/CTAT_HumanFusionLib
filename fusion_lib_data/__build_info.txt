@@ -1,4 +1,10 @@
 #data_set_name	module.pm
+Larsson_TCGA.txt	Larsson_TCGA.pm
+Greger_Normal.txt	Greger_Normal.pm
+ConjoinG.txt	ConjoinG.pm
+ChimerDB/ChimerKB.fusions	ChimerKB.pm
+ChimerDB/ChimerPub.fusions	ChimerPub.pm
+ChimerDB/ChimerSeq.fusions	ChimerSeq.pm
 GTEx_Recurrent_Blacklist_July222016.txt	GTEx_Recurrent_Blacklist_July222016.pm
 Yoshihara.Oncogene2014.TCGA_recurrent_fusions.txt	Yoshihara_TCGA_fusions.pm
 mitelman_db_recurrent_summary.txt	mitelman_db.pm

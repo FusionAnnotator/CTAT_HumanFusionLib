@@ -13,7 +13,7 @@ YARS2->NAP1L1 out-of-frame chr12 - 32900010 76446890 Kinsella et al, 2011 3 3 1 
 
 ## Table S2
 
-Chimera Class Chr Strand Bp gene1 Bp gene 2 Novelty CEU GBR FIN TSI YRI
+#Chimera Class Chr Strand Bp gene1 Bp gene 2 Novelty CEU GBR FIN TSI YRI
 AP5S1->MAVS promoter_swap chr20 + 3802940 3835205 AceView 1 2 2 2 3
 ARHGAP19->SLIT1 out-of-frame chr10 - 98988904 98924647 AceView 1 1 1 0 1
 C11orf48->INTS5 in-frame chr11 - 62430708 62417471 AceView 3 0 0 0 2
@@ -99,7 +99,7 @@ ZNF343->SNRPB promoter_swap chr20 - 2473345 2448404 AceView 7 12 8 9 11
 
 ## Table S3
 
-Chimera Class Chr Bp gene 1 Strand gene1 Bp gene 2 Strand gene2 Novelty CEU GBR FIN TSI YRI
+#Chimera Class Chr Bp gene 1 Strand gene1 Bp gene 2 Strand gene2 Novelty CEU GBR FIN TSI YRI
 C6orf72->PPIL4 3UTR_swap chr6 149887670 + 149862567 - novel 0 0 1 0 0
 NAIP->OCLN Promoter_swap chr5 70275696 - 68830521 + Courseaux et al., 2003 15 23 13 10 30
 SMC4->BCL6 Promoter_swap chr3 160117537 + 187452695 - novel 0 0 0 0 1
@@ -109,7 +109,7 @@ BPTF->LRRC37A3 Promoter_swap chr17 65822452 + 62894480 - novel 9 13 7 10 9
 
 ## Table S4
 
-Fusion Class Chr gene1 Bp gene1 Strand gene 1 Chr gene2 Bp gene 2 Strand gene 2 Novelty CEU GBR FIN TSI YRI
+#Fusion Class Chr gene1 Bp gene1 Strand gene 1 Chr gene2 Bp gene 2 Strand gene 2 Novelty CEU GBR FIN TSI YRI
 ACTB->POTEM 3UTR_swap chr7 5568295 - chr14 19988515 - Lee et al., 2006 16 15 18 19 13
 ACTB->POTEE in-frame chr7 5568201 - chr2 5568178 + Lee et al., 2006 19 22 23 19 27
 AIG1->PARL in-frame chr6 143654582 + chr3 183584546 - novel 5 4 5 6 7
