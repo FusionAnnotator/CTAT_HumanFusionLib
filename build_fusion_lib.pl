@@ -58,7 +58,7 @@ sub build_index {
         
         require $module_file_path;
         
-        my $module_name = $module_file;
+        my $module_name = basename($module_file);
         $module_name =~ s/\.pm$//;
         
         my $load_function = join("::", $module_name, "load_data");
