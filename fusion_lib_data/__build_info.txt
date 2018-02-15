@@ -1,4 +1,5 @@
 #data_set_name	module.pm
+data/FusionAnnotatorSupplement/FA_supp.list	loaders/FA_supplement.pm
 data/HaasMed/HaasMed.cancer.fusions	loaders/HaasMedCancer.pm
 data/CCLE.fusions_20170425.txt	loaders/CCLE_fusions.pm
 data/human_body_map/hbodymap.fusions	loaders/BodyMap.pm
