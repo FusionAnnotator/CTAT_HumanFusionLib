@@ -1,4 +1,5 @@
 #data_set_name	module.pm
+data/Babiceanu_Normal.dat	loaders/Babiceanu_Normal.pm
 data/FusionAnnotatorSupplement/FA_supp.list	loaders/FA_supplement.pm
 data/HaasMed/HaasMed.cancer.fusions	loaders/HaasMedCancer.pm
 data/CCLE.fusions_20170425.txt	loaders/CCLE_fusions.pm
