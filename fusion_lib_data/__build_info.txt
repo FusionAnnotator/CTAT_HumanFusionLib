@@ -1,4 +1,5 @@
 #data_set_name	module.pm
+human_body_map/hbodymap.fusions	BodyMap.pm
 Larsson_TCGA.txt	Larsson_TCGA.pm
 Greger_Normal.txt	Greger_Normal.pm
 ConjoinG.txt	ConjoinG.pm
