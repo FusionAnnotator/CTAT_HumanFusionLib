@@ -1,4 +1,4 @@
-package HaasMed;;
+package HaasMedCancer;
 
 use strict;
 use warnings;
@@ -19,9 +19,9 @@ sub load_data {
 
         foreach my $fusion (split(/,/, $fusion_listing)) {
             
-            $annotations_href->{$fusion}->{SIMPLE}->{"HaasMed"} = 1;
+            $annotations_href->{$fusion}->{SIMPLE}->{"HaasMedCancer"} = 1;
             
-            $annotations_href->{$fusion}->{COMPLEX}->{"HaasMed"}->{$pmid} = $title;
+            $annotations_href->{$fusion}->{COMPLEX}->{"HaasMedCancer"}->{$pmid} = $title;
         }
         
     }
