@@ -18,6 +18,13 @@ sub load_data {
         my ($fusion_listing, $pmid, $title) = split(/\t/, $_, 3);
 
         foreach my $fusion (split(/,/, $fusion_listing)) {
+
+            unless ($fusion =~ /\S+--\S+/) {
+                die "Error, not parsing fusion $fusion as a proper fusion, from: $_";
+            }
+            unless ($pmid =~ /^PMID/) {
+                die "Error, pmid: $pmid not a PMID, from line: $_";
+            }
             
             $annotations_href->{$fusion}->{SIMPLE}->{"HaasMedCancer"} = 1;
             
