@@ -4,6 +4,13 @@ use strict;
 use warnings;
 
 
+my @FREE_PASS = qw(Mitelman chimerdb_omim chimerdb_pubmed ChimerKB ChimerPub
+                   Cosmic HaasMedCancer);
+
+
+my @FILTER_FLAGS = qw(GTEx BodyMap DGD_PARALOGS HGNC_GENEFAM Greger_Normal Babiceanu_Normal ConjoinG);
+
+
 ####
 sub examine_fusion_prediction {
     my ($fusion_result_row) = @_;
@@ -42,14 +49,21 @@ sub examine_fusion_prediction {
     my @filter_reasons;
 
     # see https://github.com/FusionAnnotator/CTAT_HumanFusionLib/wiki  for annotation attributes
-    
-    my $fusion_annot = $fusion_result_row->{'annots'};
-    if ($fusion_annot) {
         
-        my @removal_flags = qw(GTEx BodyMap DGD_PARALOGS HGNC_GENEFAM Greger_Normal Babiceanu_Normal ConjoinG);
+    my $fusion_annot = $fusion_result_row->{'annots'};
+
+    if ($fusion_annot) {
+
+        foreach my $free_pass_annot (@FREE_PASS) {
+            if ($fusion_annot =~ /$free_pass_annot/) {
+                return(0); # retain fusion.
+            }
+        }
+                
+        
         my @removal_flags_found;
 
-        foreach my $removal_flag (@removal_flags) {
+        foreach my $removal_flag (@FILTER_FLAGS) {
         
             if ($fusion_annot =~ /$removal_flag/) {
                 push (@removal_flags_found, $removal_flag);
