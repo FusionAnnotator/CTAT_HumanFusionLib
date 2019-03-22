@@ -37,7 +37,7 @@ sub load_data {
             my $num_cancer_samples = scalar(keys %{$tissue_types{$cancer_type}});
             my $num_samples_with_this_fusion = scalar(keys %{$fusion_info{$fusion}->{$cancer_type}});
 
-            my $freq = sprintf("%.4f", $num_samples_with_this_fusion / $num_cancer_samples);
+            my $freq = $num_samples_with_this_fusion / $num_cancer_samples;
 
             $freq_info{$cancer_type} = $freq;
         }
@@ -46,7 +46,7 @@ sub load_data {
         
         my @str_tokens;
         foreach my $cancer_type (@cancer_types) {
-            my $token = "$cancer_type:" . $freq_info{$cancer_type};
+            my $token = "$cancer_type:" . sprintf("%.2f%%", $freq_info{$cancer_type} * 100);
             push(@str_tokens, $token);
         }
         

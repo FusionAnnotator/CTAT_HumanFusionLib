@@ -33,10 +33,10 @@ sub load_data {
 
         my @str_tokens;
         foreach my $cancer_type (@cancer_types) {
-            my $token = "$cancer_type:" . $info_struct->{$cancer_type};
+            my $token = "$cancer_type:" . sprintf("%.2f%%", $info_struct->{$cancer_type}->{freq}*100);
             push(@str_tokens, $token);
         }
-                
+        
         $annotations_href->{$fusion}->{COMPLEX}->{"GUO2018CR_TCGA"} = join("|", @str_tokens);
         $annotations_href->{$fusion}->{SIMPLE}->{"GUO2018CR_TCGA"} = 1;
         
