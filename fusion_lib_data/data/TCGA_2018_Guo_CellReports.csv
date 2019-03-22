@@ -1,4 +1,4 @@
-﻿"Recurrent fusion frequency. Related to Figure 1: Fusions recurrent within each cancer type are reported, with the number of samples and frequency within the cancer type. ",,,
+"Recurrent fusion frequency. Related to Figure 1: Fusions recurrent within each cancer type are reported, with the number of samples and frequency within the cancer type. ",,,
 cancer_type,fusion,count,frequency
 ACC,ASB4--DYNC1I1,2,0.025316
 BLCA,ACAP2--XXYLT1,2,0.004914

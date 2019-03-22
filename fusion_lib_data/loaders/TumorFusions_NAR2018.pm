@@ -28,7 +28,7 @@ sub load_data {
     
     
     foreach my $fusion (keys %fusion_info) {
-        chomp;
+        
         my $info_struct = $fusion_info{$fusion};
         my @cancer_types = keys %$info_struct;
 
