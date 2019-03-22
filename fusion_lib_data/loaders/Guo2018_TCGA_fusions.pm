@@ -34,7 +34,7 @@ sub load_data {
 
         my @str_tokens;
         foreach my $cancer_type (@cancer_types) {
-            my $token = "$cancer_type:" . $info_struct->{$cancer_token};
+            my $token = "$cancer_type:" . $info_struct->{$cancer_type};
             push(@str_tokens, $token);
         }
                 

@@ -1,4 +1,6 @@
 #data_set_name	module.pm
+data/TumorFusions.NAR.2018.csv	loaders/TumorFusions_NAR2018.pm
+data/TCGA_2018_Guo_CellReports.csv	loaders/Guo2018_TCGA_fusions.pm
 data/Babiceanu_Normal.dat	loaders/Babiceanu_Normal.pm
 data/FusionAnnotatorSupplement/FA_supp.list	loaders/FA_supplement.pm
 data/HaasMed/HaasMed.cancer.fusions	loaders/HaasMedCancer.pm
