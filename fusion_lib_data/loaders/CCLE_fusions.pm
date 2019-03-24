@@ -9,10 +9,11 @@ sub load_data {
     
     print STDERR "-parsing $fusions_file\n";
     
-    open (my $fh, $fusions_file) or die "Error, cannot open file: $fusions_file";
+    open (my $fh, "gunzip -c $fusions_file | ") or die "Error, cannot open file: $fusions_file";
     while(<$fh>) {
         chomp;
-        my $fusion = $_;
+        my ($fusion, $ccle_info) = split(/\t/);
+        $annotations_href->{$fusion}->{COMPLEX}->{"CCLE"} = $ccle_info;
         $annotations_href->{$fusion}->{SIMPLE}->{"CCLE"} = 1;
     }
     
