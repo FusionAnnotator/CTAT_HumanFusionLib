@@ -1,4 +1,5 @@
 #data_set_name	module.pm
+data/StarF_2019_FusionLib/GTEx_StarF2019.minusCosmic.dat.gz	loaders/GTEx_Blacklist_Mar2019.pm
 data/TumorFusions.NAR.2018.csv	loaders/TumorFusions_NAR2018.pm
 data/TCGA_2018_Guo_CellReports.csv	loaders/Guo2018_TCGA_fusions.pm
 data/Babiceanu_Normal.dat	loaders/Babiceanu_Normal.pm
@@ -12,7 +13,6 @@ data/ConjoinG.txt	loaders/ConjoinG.pm
 data/ChimerDB/ChimerKB.fusions	loaders/ChimerKB.pm
 data/ChimerDB/ChimerPub.fusions	loaders/ChimerPub.pm
 data/ChimerDB/ChimerSeq.fusions	loaders/ChimerSeq.pm
-data/GTEx_Recurrent_Blacklist_July222016.txt	loaders/GTEx_Recurrent_Blacklist_July222016.pm
 data/Yoshihara.Oncogene2014.TCGA_recurrent_fusions.txt	loaders/Yoshihara_TCGA_fusions.pm
 data/mitelman_db_recurrent_summary.txt	loaders/mitelman_db.pm
 data/cosmic_fusion_list.txt	loaders/cosmic_fusions.pm
