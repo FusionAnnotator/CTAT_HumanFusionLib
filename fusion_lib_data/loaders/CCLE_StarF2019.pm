@@ -1,4 +1,4 @@
-package CCLE_fusions;
+package CCLE_StarF2019;
 
 use strict;
 use warnings;

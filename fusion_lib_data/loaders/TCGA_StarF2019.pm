@@ -1,4 +1,4 @@
-package StarF2019;
+package TCGA_StarF2019;
 
 use strict;
 use warnings;
