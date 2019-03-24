@@ -1,4 +1,4 @@
-package GTEx_Blacklist_StarF2019;
+package GTEx_StarF2019;
 
 ## bhaas - ran starF / FI on all of GTEx
 
