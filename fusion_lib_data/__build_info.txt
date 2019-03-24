@@ -1,11 +1,10 @@
 #data_set_name	module.pm
-data/StarF_2019_FusionLib/GTEx_StarF2019.minusCosmic.dat.gz	loaders/GTEx_Blacklist_Mar2019.pm
-data/StarF_2019_FusionLib/CCLE_StarF2019.dat.gz	loaders/CCLE_fusions.pm
-
+data/StarF_2019_FusionLib/GTEx_StarF2019.minusCosmic.dat.gz	loaders/GTEx_Blacklist_StarF2019.pm
+data/StarF_2019_FusionLib/CCLE_StarF2019.dat.gz	loaders/CCLE_StarF2019.pm
+data/StarF_2019_FusionLib/TCGA_StarF2019.dat.gz	loaders/TCGA_StarF2019.pm
 data/TumorFusions.NAR.2018.csv	loaders/TumorFusions_NAR2018.pm
 data/TCGA_2018_Guo_CellReports.csv	loaders/Guo2018_TCGA_fusions.pm
 data/Babiceanu_Normal.dat	loaders/Babiceanu_Normal.pm
-data/FusionAnnotatorSupplement/FA_supp.list	loaders/FA_supplement.pm
 data/HaasMed/HaasMed.cancer.fusions	loaders/HaasMedCancer.pm
 data/human_body_map/hbodymap.fusions	loaders/BodyMap.pm
 data/Larsson_TCGA.txt	loaders/Larsson_TCGA.pm

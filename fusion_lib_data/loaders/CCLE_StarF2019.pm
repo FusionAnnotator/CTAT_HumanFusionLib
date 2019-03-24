@@ -13,8 +13,8 @@ sub load_data {
     while(<$fh>) {
         chomp;
         my ($fusion, $ccle_info) = split(/\t/);
-        $annotations_href->{$fusion}->{COMPLEX}->{"CCLE"} = $ccle_info;
-        $annotations_href->{$fusion}->{SIMPLE}->{"CCLE"} = 1;
+        $annotations_href->{$fusion}->{COMPLEX}->{"CCLE_StarF2019"} = $ccle_info;
+        $annotations_href->{$fusion}->{SIMPLE}->{"CCLE_StarF2019"} = 1;
     }
     
     return;

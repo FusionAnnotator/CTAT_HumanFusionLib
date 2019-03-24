@@ -1,4 +1,4 @@
-package GTEx_Blacklist_Mar2019;
+package GTEx_Blacklist_StarF2019;
 
 ## bhaas - ran starF / FI on all of GTEx
 
@@ -17,9 +17,9 @@ sub load_data {
         chomp;
         my ($fusion, $GTEx_annot) = split(/\t/);
         
-        $annotations_href->{$fusion}->{COMPLEX}->{"GTEx"} = "GTEx_Recurrent:{$GTEx_annot}";
+        $annotations_href->{$fusion}->{COMPLEX}->{"GTEx_StarF2019"} = "GTEx_Recurrent:{$GTEx_annot}";
         
-        $annotations_href->{$fusion}->{SIMPLE}->{"GTEx"} = 1;
+        $annotations_href->{$fusion}->{SIMPLE}->{"GTEx_StarF2019"} = 1;
         
     }
     close $fh;
