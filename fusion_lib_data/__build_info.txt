@@ -1,7 +1,7 @@
 #data_set_name	module.pm
-data/StarF_2019_FusionLib/GTEx_StarF2019.minusCosmic.dat.gz	loaders/GTEx_StarF2019.pm
-data/StarF_2019_FusionLib/CCLE_StarF2019.dat.gz	loaders/CCLE_StarF2019.pm
-data/StarF_2019_FusionLib/TCGA_StarF2019.dat.gz	loaders/TCGA_StarF2019.pm
+data/StarF_2019_FusionLib/GTEx.starF.consolidated.Mar2019.tsv.recurrent.wTissueType.pct_class_n_count	loaders/GTEx_StarF2019.pm
+data/StarF_2019_FusionLib/CCLE.starF.consolidated.Mar2019.tsv.minus_GTEx.fusion_list	loaders/CCLE_StarF2019.pm
+data/StarF_2019_FusionLib/TCGA.starF.consolidated.Mar2019.tsv.minus_GTEx.ext_tcga_class.pct_class_n_count	loaders/TCGA_StarF2019.pm
 data/TumorFusions.NAR.2018.csv	loaders/TumorFusions_NAR2018.pm
 data/TCGA_2018_Guo_CellReports.csv	loaders/Guo2018_TCGA_fusions.pm
 data/Babiceanu_Normal.dat	loaders/Babiceanu_Normal.pm
