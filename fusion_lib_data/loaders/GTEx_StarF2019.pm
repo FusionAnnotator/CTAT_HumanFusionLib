@@ -1,28 +1,50 @@
 package GTEx_StarF2019;
 
-## bhaas - ran starF / FI on all of GTEx
-
 use strict;
 use warnings;
 use Carp;
+use DelimParser;
 
 sub load_data {
-    my ($annotations_href, $gtex_normals) = @_;
-
-    print STDERR "-parsing GTEx_Blacklist_Mar2019 $gtex_normals\n";
+    my ($annotations_href, $fusions_file) = @_;
     
-    open (my $fh, "gunzip -c $gtex_normals | ") or confess "Error, cannot open file $gtex_normals";
+    print STDERR "-parsing $fusions_file\n";
+        
+    open (my $fh, $fusions_file) or die "Error, cannot open file: $fusions_file";
+    my $delim_parser = new DelimParser::Reader($fh, "\t");
 
-    while (<$fh>) {
-        chomp;
-        my ($fusion, $GTEx_annot) = split(/\t/);
+    my @column_names = $delim_parser->get_column_headers();
+
+    my @samples = grep {/GTEx/} @column_names;
         
-        $annotations_href->{$fusion}->{COMPLEX}->{"GTEx_StarF2019"} = "GTEx_Recurrent:{$GTEx_annot}";
+    while(my $row = $delim_parser->get_row()) {
+        my @vals;
+
+        my $fusion = $delim_parser->get_row_val($row, "Fusion");
         
-        $annotations_href->{$fusion}->{SIMPLE}->{"GTEx_StarF2019"} = 1;
+        foreach my $sample (@samples) {
+            my $val = $delim_parser->get_row_val($row, $sample);
+            if ($val =~ /;/) {
+                my ($pct, $count_info) = split(/;/, $val);
+                $count_info =~ s/n=//;
+                push (@vals, { string => $val,
+                               count => $count_info,
+                               sample => $sample } );
+            }
+        }
+        @vals = reverse sort {$a->{count}<=>$b->{count}} @vals;
+        
+        my @annot_strings;
+        foreach my $val (@vals) {
+            push (@annot_strings, $val->{sample} . ":" . $val->{string});
+        }
+        
+        my $annot_str = join("|", @annot_strings);
+        
+        $annotations_href->{$fusion}->{SIMPLE}->{"GTEx_recurrent_StarF2019"} = 1;
+        $annotations_href->{$fusion}->{COMPLEX}->{"GTEx_recurrent_StarF2019"} = $annot_str;
         
     }
-    close $fh;
     
     return;
 }
