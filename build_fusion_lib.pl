@@ -13,21 +13,21 @@ my $fusion_annot_lib = "$FindBin::Bin/fusion_lib_data";
 
 
 main: {
+
     
-    &build_index($fusion_annot_lib);
+    my $build_info_file = $ARGV[0] || "$fusion_annot_lib/__build_info.txt";
+    if (! -s $build_info_file) {
+        die "Error, cannot locate the build info file: $build_info_file";
+    }
+    
+    &build_index($build_info_file);
     
     exit(0);
 }
 
 ####
 sub build_index {
-    my ($fusion_annot_lib) = @_;
-
-    my $build_info_file = "$fusion_annot_lib/__build_info.txt";
-    if (! -s $build_info_file) {
-        die "Error, cannot locate the build info file: $build_info_file";
-    }
-
+    my ($build_info_file) = @_;
     
     my %annotations;
 
