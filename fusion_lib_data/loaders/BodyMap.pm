@@ -16,7 +16,7 @@ sub load_data {
         chomp;
         if (/^\#/) { next; }
         unless (/\w/) { next; }
-        my ($sample, $fusion) = split(/\s+/);
+        my ($sample, $fusion, @rest) = split(/\s+/);
         $fusion_to_body_sites{$fusion}->{$sample} = 1;
     }
     close $fh;
