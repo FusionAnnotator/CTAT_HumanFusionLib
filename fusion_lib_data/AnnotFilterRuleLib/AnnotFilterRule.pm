@@ -8,7 +8,8 @@ my @FREE_PASS = qw(Mitelman chimerdb_omim chimerdb_pubmed ChimerKB ChimerPub
                    Cosmic HaasMedCancer);
 
 
-my @FILTER_FLAGS = qw(GTEx BodyMap DGD_PARALOGS HGNC_GENEFAM Greger_Normal Babiceanu_Normal ConjoinG);
+my @FILTER_FLAGS = qw(GTEx_recurrent_StarF2019 BodyMap DGD_PARALOGS HGNC_GENEFAM 
+                      Greger_Normal Babiceanu_Normal ConjoinG);
 
 
 ####

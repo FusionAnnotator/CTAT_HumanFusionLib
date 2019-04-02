@@ -6,7 +6,7 @@ data/TumorFusions.NAR.2018.csv	loaders/TumorFusions_NAR2018.pm
 data/TCGA_2018_Guo_CellReports.csv	loaders/Guo2018_TCGA_fusions.pm
 data/Babiceanu_Normal.dat	loaders/Babiceanu_Normal.pm
 data/HaasMed/HaasMed.cancer.fusions	loaders/HaasMedCancer.pm
-data/human_body_map/hbodymap.fusions	loaders/BodyMap.pm
+data/human_body_map/HbodyMap.GRCh38_v27.starF.Mar2019.tsv	loaders/BodyMap.pm
 data/Larsson_TCGA.txt	loaders/Larsson_TCGA.pm
 data/Greger_Normal.txt	loaders/Greger_Normal.pm
 data/ConjoinG.txt	loaders/ConjoinG.pm
