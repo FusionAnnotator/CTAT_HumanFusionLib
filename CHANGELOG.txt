@@ -1,0 +1,6 @@
+## Release v0.2.0 - April 2, 2019
+
+updated humanbodymap data based on GRCh38 search.
+updated TCGA, GTEx, and CCLE results, based on STAR-v1.5
+
+
