@@ -1,4 +1,5 @@
 #data_set_name	module.pm
+data/DEEPEST_2019.pnas.1900391116.sd01.txt	loaders/DEEPEST_2019.pm
 data/STARF_Mar2019/GTEx.starF.consolidated.Mar2019.tsv.recurrent.wTissueType.pct_class_n_count	loaders/GTEx_StarF2019.pm
 data/STARF_Mar2019/CCLE.starF.consolidated.Mar2019.tsv.minus_GTEx.fusion_list	loaders/CCLE_StarF2019.pm
 data/STARF_Mar2019/TCGA.starF.consolidated.Mar2019.tsv.minus_GTEx.ext_tcga_class.pct_class_n_count	loaders/TCGA_StarF2019.pm
