@@ -16,7 +16,7 @@ echo "Proceeding now."
 
 ./build_fusion_lib.pl > fusion_lib.dat
 
-~/GITHUB/CTAT_FUSIONS/FusionFilter/util/build_fusion_annot_db_index.pl  --gene_spans $CTAT_GENOME_LIB/ref_annot.gtf.gene_spans --key_pairs fusion_lib.dat --out_db_file fusion_lib.dat.idx
+~/GITHUB/CTAT_FUSIONS/ctat-genome-lib-builder/util/build_fusion_annot_db_index.pl  --gene_spans $CTAT_GENOME_LIB/ref_annot.gtf.gene_spans --key_pairs fusion_lib.dat --out_db_file fusion_lib.dat.idx
 
 cp fusion_lib.dat.idx $CTAT_GENOME_LIB/fusion_annot_lib.idx
 

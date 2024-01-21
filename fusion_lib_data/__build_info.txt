@@ -25,3 +25,4 @@ data/dgd_Hsa_all_v71.tsv	loaders/paralogs.pm
 data/genefam_list.txt	loaders/genefam.pm
 data/hgnc_complete_set.txt.gz	loaders/HGNC.pm
 data/allOnco_Feb2017.tsv	loaders/Oncogenes_Bushman.pm
+data/DepMap.fusions.pub23Q4.tsv.gz	loaders/DepMap.pm
